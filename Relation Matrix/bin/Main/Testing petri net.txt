@@ -1,0 +1,147 @@
+		{
+			// // XOR a-xor b,c - d
+			// // AND a-and b,c - d
+			// Transition a = new Transition("A");
+			// Transition b = new Transition("B");
+			// Transition c = new Transition("C");
+			// Transition d = new Transition("D");
+			// pn.addNode(a);
+			// pn.addNode(b);
+			// pn.addNode(c);
+			// pn.addNode(d);
+			// Place p1 = new Place("1");
+			// Place p2 = new Place("2");
+			// Place p3 = new Place("3");
+			// Place p4 = new Place("4");
+			// pn.addNode(p1);
+			// pn.addNode(p2);
+			// pn.addNode(p3);
+			// pn.addNode(p4);
+
+			// // XOR Flow
+			// pn.addFlow(p1, a);
+			// pn.addFlow(a, p2);
+			// pn.addFlow(p2, b);
+			// pn.addFlow(p2, c);
+			// pn.addFlow(b, p3);
+			// pn.addFlow(c, p3);
+			// pn.addFlow(p3, d);
+			// pn.addFlow(d, p4);
+		}
+		// ////// Loop example [loop contains XOR gate ]
+		Transition a = new Transition("A");
+		Transition b = new Transition("B");
+		Transition c = new Transition("C");
+		Transition d = new Transition("D");
+		// Transition e = new Transition("E");
+		// Transition f = new Transition("F");
+		// Transition g = new Transition("G");
+		Transition tau1 = new Transition("tau7");
+		pn.addNode(a);
+		pn.addNode(b);
+		pn.addNode(c);
+		pn.addNode(d);
+		// pn.addNode(e);
+		// pn.addNode(f);
+		// pn.addNode(g);
+		pn.addNode(tau1);
+
+		Place p1 = new Place("1");
+		Place p2 = new Place("2");
+		Place p3 = new Place("3");
+		Place p4 = new Place("4");
+		// Place p5 = new Place("5");
+		// Place p6 = new Place("6");
+		// Place p7 = new Place("7");
+		// Place p8 = new Place("8");
+		pn.addNode(p1);
+		pn.addNode(p2);
+		pn.addNode(p3);
+		pn.addNode(p4);
+		// pn.addNode(p5);
+		// pn.addNode(p6);
+		// pn.addNode(p7);
+		// pn.addNode(p8);
+
+		pn.addFlow(p1, a);
+		pn.addFlow(a, p2);
+		// in loop
+		pn.addFlow(p2, b);
+		pn.addFlow(p2, c);
+		// b->e
+		// pn.addFlow(b, p5);
+		// pn.addFlow(p5, e);
+		pn.addFlow(b, p3);
+		// pn.addFlow(e, p3);
+
+		pn.addFlow(c, p3);
+		// for xor join
+		pn.addFlow(p3, tau1);
+		pn.addFlow(tau1, p2);
+		// //
+		pn.addFlow(p3, d);
+		pn.addFlow(d, p4);
+		// and
+		// pn.addFlow(p4, e);
+		// pn.addFlow(e, p5);
+		// pn.addFlow(d, p6);
+		// pn.addFlow(p6, f);
+		// pn.addFlow(f, p7);
+		// pn.addFlow(p5, g);
+		// pn.addFlow(p7, g);
+		// pn.addFlow(g, p8);
+
+		// //AND loop
+		// Transition a = new Transition("A");
+		// Transition b = new Transition("B");
+		// Transition c = new Transition("C");
+		// Transition d = new Transition("D");
+		// Transition tau = new Transition("H");
+		// Transition tau1 = new Transition("J");
+		// Transition tau2 = new Transition("tau loop");
+		// pn.addNode(a);
+		// pn.addNode(b);
+		// pn.addNode(c);
+		// pn.addNode(d);
+		// pn.addNode(tau);
+		// pn.addNode(tau1);
+		// pn.addNode(tau2);
+		//
+		// Place p1 = new Place("1");
+		// Place p2 = new Place("2");
+		// Place p3 = new Place("3");
+		// Place p4 = new Place("4");
+		// Place p5 = new Place("5");
+		// Place p6 = new Place("6");
+		// Place p7 = new Place("7");
+		// Place p8 = new Place("8");
+		// pn.addNode(p1);
+		// pn.addNode(p2);
+		// pn.addNode(p3);
+		// pn.addNode(p4);
+		// pn.addNode(p5);
+		// pn.addNode(p6);
+		// pn.addNode(p7);
+		// pn.addNode(p8);
+		//
+		// pn.addFlow(p1, a);
+		// pn.addFlow(a, p2);
+		// // in loop
+		// //and
+		// pn.addFlow(p2, tau);
+		// pn.addFlow(tau, p3);
+		// pn.addFlow(tau, p4);
+		// pn.addFlow(p3,b);
+		// pn.addFlow(b,p5);
+		// pn.addFlow(p4,c);
+		// pn.addFlow(c,p6);
+		// pn.addFlow(p5,tau1);
+		// pn.addFlow(p6,tau1);
+		// pn.addFlow(tau1,p7);
+		// //Loop branch
+		// pn.addFlow(p7,tau2);
+		// pn.addFlow(tau2,p2);
+		// //
+		// pn.addFlow(p7,d);
+		// pn.addFlow(d,p8);
+
