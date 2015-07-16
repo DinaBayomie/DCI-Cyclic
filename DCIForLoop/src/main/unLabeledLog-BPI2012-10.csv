@@ -1,0 +1,131 @@
+timestamp,activity
+10/1/2011 0:38,A_SUBMITTED
+10/1/2011 0:38,A_PARTLYSUBMITTED
+10/1/2011 0:39,A_PREACCEPTED
+10/1/2011 0:39,W_Completeren aanvraag
+10/1/2011 8:08,A_SUBMITTED
+10/1/2011 8:09,A_PARTLYSUBMITTED
+10/1/2011 8:09,A_PREACCEPTED
+10/1/2011 8:09,W_Completeren aanvraag
+10/1/2011 8:10,A_SUBMITTED
+10/1/2011 8:10,A_PARTLYSUBMITTED
+10/1/2011 8:11,A_SUBMITTED
+10/1/2011 8:11,A_PARTLYSUBMITTED
+10/1/2011 8:11,A_PREACCEPTED
+10/1/2011 8:11,W_Completeren aanvraag
+10/1/2011 8:11,A_DECLINED
+10/1/2011 8:15,A_SUBMITTED
+10/1/2011 8:15,A_PARTLYSUBMITTED
+10/1/2011 8:16,A_DECLINED
+10/1/2011 11:31,W_Completeren aanvraag
+10/1/2011 11:35,W_Completeren aanvraag
+10/1/2011 11:36,W_Completeren aanvraag
+10/1/2011 11:37,W_Completeren aanvraag
+10/1/2011 11:42,A_ACCEPTED
+10/1/2011 11:43,W_Completeren aanvraag
+10/1/2011 11:45,O_SELECTED
+10/1/2011 11:45,A_FINALIZED
+10/1/2011 11:45,O_CREATED
+10/1/2011 11:45,O_SENT
+10/1/2011 11:45,W_Nabellen offertes
+10/1/2011 11:45,W_Completeren aanvraag
+10/1/2011 12:15,W_Nabellen offertes
+10/1/2011 12:17,W_Nabellen offertes
+10/1/2011 14:27,W_Completeren aanvraag
+10/1/2011 14:33,A_ACCEPTED
+10/1/2011 14:35,A_FINALIZED
+10/1/2011 14:35,O_SELECTED
+10/1/2011 14:35,O_CREATED
+10/1/2011 14:35,O_SENT
+10/1/2011 14:35,W_Nabellen offertes
+10/1/2011 14:35,W_Completeren aanvraag
+10/1/2011 14:36,W_Nabellen offertes
+10/1/2011 14:36,W_Nabellen offertes
+10/3/2011 11:12,W_Completeren aanvraag
+10/3/2011 11:21,W_Completeren aanvraag
+10/3/2011 13:21,W_Completeren aanvraag
+10/3/2011 13:32,W_Completeren aanvraag
+10/3/2011 13:32,W_Completeren aanvraag
+10/3/2011 13:34,A_ACCEPTED
+10/3/2011 13:40,A_FINALIZED
+10/3/2011 13:40,O_SELECTED
+10/3/2011 13:40,O_CREATED
+10/3/2011 13:40,O_SENT
+10/3/2011 13:40,W_Nabellen offertes
+10/3/2011 13:40,W_Completeren aanvraag
+10/3/2011 13:40,W_Nabellen offertes
+10/3/2011 13:44,O_SELECTED
+10/3/2011 13:44,O_CANCELLED
+10/3/2011 13:44,O_CREATED
+10/3/2011 13:44,O_SENT
+10/3/2011 13:44,W_Nabellen offertes
+10/3/2011 13:44,W_Nabellen offertes
+10/3/2011 16:54,W_Nabellen offertes
+10/3/2011 16:56,O_SELECTED
+10/3/2011 16:56,O_CANCELLED
+10/3/2011 16:56,O_CREATED
+10/3/2011 16:56,O_SENT
+10/3/2011 16:56,W_Nabellen offertes
+10/3/2011 16:56,W_Nabellen offertes
+10/3/2011 16:56,W_Nabellen offertes
+10/3/2011 16:57,W_Nabellen offertes
+10/8/2011 16:26,W_Nabellen offertes
+10/8/2011 16:32,W_Nabellen offertes
+10/10/2011 10:13,W_Nabellen offertes
+10/10/2011 10:14,O_SENT_BACK
+10/10/2011 10:14,W_Valideren aanvraag
+10/10/2011 10:14,W_Nabellen offertes
+10/10/2011 11:12,W_Valideren aanvraag
+10/10/2011 11:30,W_Valideren aanvraag
+10/10/2011 11:32,W_Nabellen offertes
+10/10/2011 11:33,O_SENT_BACK
+10/10/2011 11:33,W_Valideren aanvraag
+10/10/2011 11:33,W_Nabellen offertes
+10/10/2011 14:11,W_Valideren aanvraag
+10/10/2011 14:14,W_Valideren aanvraag
+10/10/2011 14:14,W_Valideren aanvraag
+10/10/2011 14:17,O_ACCEPTED
+10/10/2011 14:17,A_APPROVED
+10/10/2011 14:17,A_REGISTERED
+10/10/2011 14:17,A_ACTIVATED
+10/10/2011 14:17,W_Valideren aanvraag
+10/10/2011 16:46,W_Nabellen offertes
+10/10/2011 16:47,W_Nabellen offertes
+10/10/2011 19:29,W_Nabellen offertes
+10/10/2011 19:34,W_Nabellen offertes
+10/13/2011 10:05,W_Valideren aanvraag
+10/13/2011 10:37,A_REGISTERED
+10/13/2011 10:37,A_APPROVED
+10/13/2011 10:37,O_ACCEPTED
+10/13/2011 10:37,A_ACTIVATED
+10/13/2011 10:37,W_Valideren aanvraag
+10/14/2011 18:15,W_Nabellen offertes
+10/14/2011 18:16,W_Nabellen offertes
+10/17/2011 19:41,W_Nabellen offertes
+10/17/2011 19:43,O_SELECTED
+10/17/2011 19:43,O_CANCELLED
+10/17/2011 19:43,O_CREATED
+10/17/2011 19:43,O_SENT
+10/17/2011 19:43,W_Nabellen offertes
+10/17/2011 19:43,W_Nabellen offertes
+10/25/2011 10:46,W_Nabellen offertes
+10/25/2011 10:50,W_Nabellen offertes
+10/26/2011 18:48,W_Nabellen offertes
+10/26/2011 18:50,W_Nabellen offertes
+10/29/2011 12:39,W_Nabellen offertes
+10/29/2011 12:41,W_Nabellen offertes
+11/1/2011 15:54,W_Nabellen offertes
+11/1/2011 15:55,W_Nabellen offertes
+11/1/2011 18:16,W_Nabellen offertes
+11/1/2011 18:21,W_Nabellen offertes
+11/2/2011 10:11,W_Nabellen offertes
+11/2/2011 10:15,O_SENT_BACK
+11/2/2011 10:15,W_Valideren aanvraag
+11/2/2011 10:15,W_Nabellen offertes
+11/4/2011 16:24,W_Valideren aanvraag
+11/4/2011 17:04,O_ACCEPTED
+11/4/2011 17:04,A_APPROVED
+11/4/2011 17:04,A_REGISTERED
+11/4/2011 17:04,A_ACTIVATED
+11/4/2011 17:05,W_Valideren aanvraag
+2/15/2012 13:29,W_Wijzigen contractgegevens
