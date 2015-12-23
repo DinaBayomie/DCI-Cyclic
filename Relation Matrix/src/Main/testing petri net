@@ -1,0 +1,307 @@
+	/*
+		 * Place p1 = new Place("1"); Place p2 = new Place("2"); Place p3 = new
+		 * Place("3"); Place p4 = new Place("4"); Place p5 = new Place("5");
+		 * Place p6 = new Place("6"); Place p7 = new Place("7"); Place p8 = new
+		 * Place("8"); Place p9 = new Place("9"); Place p10 = new Place("10");
+		 * Place p11 = new Place("11"); Place p12 = new Place("12"); Place p13 =
+		 * new Place("13"); Place p14 = new Place("14"); Place p15 = new
+		 * Place("15"); Place p16 = new Place("16"); Place p17 = new
+		 * Place("17"); Place p18 = new Place("18"); Place p19 = new
+		 * Place("19"); Place p20 = new Place("20"); Place p21 = new
+		 * Place("21"); Place p22 = new Place("22"); Place p23 = new
+		 * Place("23"); Place p24 = new Place("24"); Place p25 = new
+		 * Place("25"); Place p26 = new Place("26"); Place p27 = new
+		 * Place("27"); Place p28 = new Place("28"); Place p29 = new
+		 * Place("29"); Place p30 = new Place("30"); Place p31 = new
+		 * Place("31"); Place p32 = new Place("32"); Place p33 = new
+		 * Place("33"); Place p34 = new Place("34"); Place p35 = new
+		 * Place("35"); Place p36 = new Place("36"); Place p37 = new
+		 * Place("37"); Place p38 = new Place("38"); Place p39 = new
+		 * Place("39"); Place p40 = new Place("40"); Place p43 = new
+		 * Place("43"); Place p41 = new Place("41"); Place p44 = new
+		 * Place("44"); Place p42 = new Place("42");
+		 * 
+		 * pnBPI2012.addNode(p1); pnBPI2012.addNode(p2); pnBPI2012.addNode(p3);
+		 * pnBPI2012.addNode(p4); pnBPI2012.addNode(p5); pnBPI2012.addNode(p6);
+		 * pnBPI2012.addNode(p7); pnBPI2012.addNode(p8); pnBPI2012.addNode(p9);
+		 * pnBPI2012.addNode(p10); pnBPI2012.addNode(p11);
+		 * pnBPI2012.addNode(p12); pnBPI2012.addNode(p13);
+		 * pnBPI2012.addNode(p14); pnBPI2012.addNode(p15);
+		 * pnBPI2012.addNode(p16); pnBPI2012.addNode(p17);
+		 * pnBPI2012.addNode(p18); pnBPI2012.addNode(p19);
+		 * pnBPI2012.addNode(p20); pnBPI2012.addNode(p21);
+		 * pnBPI2012.addNode(p22); pnBPI2012.addNode(p23);
+		 * pnBPI2012.addNode(p24); pnBPI2012.addNode(p25);
+		 * pnBPI2012.addNode(p26); pnBPI2012.addNode(p27);
+		 * pnBPI2012.addNode(p28); pnBPI2012.addNode(p29);
+		 * pnBPI2012.addNode(p30); pnBPI2012.addNode(p31);
+		 * pnBPI2012.addNode(p32); pnBPI2012.addNode(p33);
+		 * pnBPI2012.addNode(p34); pnBPI2012.addNode(p35);
+		 * pnBPI2012.addNode(p36); pnBPI2012.addNode(p37);
+		 * pnBPI2012.addNode(p38); pnBPI2012.addNode(p39);
+		 * pnBPI2012.addNode(p40); pnBPI2012.addNode(p41);
+		 * pnBPI2012.addNode(p42); pnBPI2012.addNode(p43);
+		 * pnBPI2012.addNode(p44);
+		 * 
+		 * Transition t1 = new Transition("A_SUBMITTED"); Transition t2 = new
+		 * Transition("A_PARTLYSUBMITTED"); Transition t3 = new Transition(
+		 * "W_Nabellen incomplete dossiers"); Transition t4 = new
+		 * Transition("A_PREACCEPTED");// W_Afhandelenleads"); Transition t5 =
+		 * new Transition("W_Completeren aanvraag"); Transition t6 = new
+		 * Transition("A_ACCEPTED"); Transition t7 = new
+		 * Transition("O_SELECTED"); Transition t8 = new
+		 * Transition("A_FINALIZED"); Transition t9 = new
+		 * Transition("O_DECLINED"); Transition t10 = new
+		 * Transition("A_CANCELLED");// W_Wijzigen // contractgegevens
+		 * Transition t11 = new Transition("O_CREATED"); Transition t12 = new
+		 * Transition("O_SENT"); Transition t13 = new
+		 * Transition("O_SENT_BACKs"); Transition t14 = new
+		 * Transition("A_CANCELLED"); Transition t15 = new Transition(
+		 * "W_Nabellen offertes");// W_Nabellen // incomplete // dossiers
+		 * Transition t16 = new Transition("W_Beoordelen fraude"); Transition
+		 * t17 = new Transition("A_DECLINED"); Transition t19 = new Transition(
+		 * "W_Afhandelen leads"); Transition t20 = new Transition(
+		 * "W_Valideren aanvraag"); Transition t21 = new Transition(
+		 * "W_Wijzigen contractgegevens");
+		 * 
+		 * Transition tauD3 = new Transition("tauD3"); Transition taul3 = new
+		 * Transition("taul3"); Transition tauD1 = new Transition("tauD1");
+		 * Transition taul1 = new Transition("taul1");
+		 * 
+		 * Transition tauD6 = new Transition("tauD6"); Transition taul6 = new
+		 * Transition("taul6"); Transition tauD5 = new Transition("tauD5");
+		 * Transition taul5 = new Transition("taul5"); Transition tauD4 = new
+		 * Transition("tauD4"); Transition taul4 = new Transition("taul4");
+		 * Transition tauD2 = new Transition("tauD2"); Transition taul2 = new
+		 * Transition("taul2");
+		 * 
+		 * Transition tau1 = new Transition("tau1"); Transition tau2 = new
+		 * Transition("tau2"); Transition tau3 = new Transition("tau3");
+		 * Transition tau4 = new Transition("tau4"); Transition tau5 = new
+		 * Transition("tau5"); Transition tau6 = new Transition("tau6");
+		 * Transition tau7 = new Transition("tau7"); Transition tau8 = new
+		 * Transition("tau8"); Transition tau9 = new Transition("tau9");
+		 * Transition tau10 = new Transition("tau10"); Transition tau11 = new
+		 * Transition("tau11"); Transition tau12 = new Transition("tau12");
+		 * Transition tau13 = new Transition("tau13"); Transition tau14 = new
+		 * Transition("tau14"); Transition tau15 = new Transition("tau15");
+		 * Transition tau16 = new Transition("tau16"); Transition tau17 = new
+		 * Transition("tau17"); Transition tau18 = new Transition("tau18");
+		 * Transition tau19 = new Transition("tau19"); Transition tau20 = new
+		 * Transition("tau20"); Transition tau21 = new Transition("tau21");
+		 * Transition tau22 = new Transition("tau22"); Transition tau23 = new
+		 * Transition("tau23"); Transition tau24 = new Transition("tau24");
+		 * Transition tau25 = new Transition("tau25"); Transition tau26 = new
+		 * Transition("tau26"); Transition tau27 = new Transition("tau27");
+		 * Transition tau28 = new Transition("tau28");
+		 * 
+		 * pnBPI2012.addNode(t1); pnBPI2012.addNode(t2); pnBPI2012.addNode(t3);
+		 * pnBPI2012.addNode(t4); pnBPI2012.addNode(t5); pnBPI2012.addNode(t6);
+		 * pnBPI2012.addNode(t7); pnBPI2012.addNode(t8); pnBPI2012.addNode(t9);
+		 * pnBPI2012.addNode(t10); pnBPI2012.addNode(t11);
+		 * pnBPI2012.addNode(t12); pnBPI2012.addNode(t13);
+		 * pnBPI2012.addNode(t14); pnBPI2012.addNode(t15);
+		 * pnBPI2012.addNode(t16); pnBPI2012.addNode(t17);
+		 * pnBPI2012.addNode(t19); pnBPI2012.addNode(t20);
+		 * pnBPI2012.addNode(t21);
+		 * 
+		 * pnBPI2012.addNode(tau1); pnBPI2012.addNode(tau2);
+		 * pnBPI2012.addNode(tau3); pnBPI2012.addNode(tau4);
+		 * pnBPI2012.addNode(tau5); pnBPI2012.addNode(tau6);
+		 * pnBPI2012.addNode(tau7); pnBPI2012.addNode(tau8);
+		 * pnBPI2012.addNode(tau9); pnBPI2012.addNode(tau10);
+		 * pnBPI2012.addNode(tau11); pnBPI2012.addNode(tau12);
+		 * pnBPI2012.addNode(tau13); pnBPI2012.addNode(tau14);
+		 * pnBPI2012.addNode(tau15); pnBPI2012.addNode(tau16);
+		 * pnBPI2012.addNode(tau17); pnBPI2012.addNode(tau18);
+		 * pnBPI2012.addNode(tau19); pnBPI2012.addNode(tau20);
+		 * pnBPI2012.addNode(tau21); pnBPI2012.addNode(tau22);
+		 * pnBPI2012.addNode(tau23); pnBPI2012.addNode(tau24);
+		 * pnBPI2012.addNode(tau25); pnBPI2012.addNode(tau26);
+		 * pnBPI2012.addNode(tau27); pnBPI2012.addNode(tau28);
+		 * 
+		 * pnBPI2012.addNode(taul1); pnBPI2012.addNode(taul2);
+		 * pnBPI2012.addNode(taul3); pnBPI2012.addNode(taul4);
+		 * pnBPI2012.addNode(taul5); pnBPI2012.addNode(taul6);
+		 * pnBPI2012.addNode(tauD6); pnBPI2012.addNode(tauD5);
+		 * pnBPI2012.addNode(tauD4); pnBPI2012.addNode(tauD3);
+		 * pnBPI2012.addNode(tauD2); pnBPI2012.addNode(tauD1);
+		 * 
+		 * pnBPI2012.addFlow(p1, t1); pnBPI2012.addFlow(t1, p2);
+		 * pnBPI2012.addFlow(p2, t2); pnBPI2012.addFlow(t2, p3);
+		 * pnBPI2012.addFlow(p3, tau1); pnBPI2012.addFlow(tau1, p4);
+		 * 
+		 * pnBPI2012.addFlow(tau1, p40);
+		 * 
+		 * // 1st level pnBPI2012.addFlow(p4, tau2); pnBPI2012.addFlow(tau2,
+		 * p5); // loop pnBPI2012.addFlow(p5, tauD3); pnBPI2012.addFlow(tauD3,
+		 * p6); pnBPI2012.addFlow(p5, t3); pnBPI2012.addFlow(t3, p6);
+		 * pnBPI2012.addFlow(p6, taul3); pnBPI2012.addFlow(taul3, p5); // end
+		 * loop pnBPI2012.addFlow(p6, tau6); pnBPI2012.addFlow(tau6, p39);
+		 * pnBPI2012.addFlow(p39, tau25);
+		 * 
+		 * pnBPI2012.addFlow(tau25, p43); pnBPI2012.addFlow(p43, tau26);
+		 * 
+		 * pnBPI2012.addFlow(p43, t21); pnBPI2012.addFlow(t21, p44);
+		 * pnBPI2012.addFlow(tau26, p44);
+		 * 
+		 * pnBPI2012.addFlow(p4, tau3); pnBPI2012.addFlow(tau3, p7);
+		 * pnBPI2012.addFlow(p7, tau4); pnBPI2012.addFlow(p7, t4);
+		 * pnBPI2012.addFlow(tau4, p8); pnBPI2012.addFlow(t4, p8);
+		 * pnBPI2012.addFlow(p8, tau5);
+		 * 
+		 * pnBPI2012.addFlow(tau3, p12); // loop pnBPI2012.addFlow(p12, t19);
+		 * pnBPI2012.addFlow(p12, tauD2); pnBPI2012.addFlow(t19, p13);
+		 * pnBPI2012.addFlow(tauD2, p13); pnBPI2012.addFlow(p13, taul2);
+		 * pnBPI2012.addFlow(taul2, p12); pnBPI2012.addFlow(p13, tau27);
+		 * pnBPI2012.addFlow(tau27, p14); pnBPI2012.addFlow(p14, tau24);
+		 * 
+		 * // end loop // loop pnBPI2012.addFlow(p40, tauD1);
+		 * pnBPI2012.addFlow(tauD1, p41); pnBPI2012.addFlow(p40, t20);
+		 * pnBPI2012.addFlow(t20, p41); pnBPI2012.addFlow(p41, taul1);
+		 * pnBPI2012.addFlow(taul1, p40); // end loop pnBPI2012.addFlow(p41,
+		 * tau28); pnBPI2012.addFlow(tau28, p42); pnBPI2012.addFlow(p42, tau25);
+		 * 
+		 * pnBPI2012.addFlow(tau5, p9); // loop pnBPI2012.addFlow(p9, t5);
+		 * pnBPI2012.addFlow(p9, tauD4); pnBPI2012.addFlow(tauD4, p10);
+		 * pnBPI2012.addFlow(t5, p10); pnBPI2012.addFlow(p10, taul4);
+		 * pnBPI2012.addFlow(taul4, p9); // end of loop pnBPI2012.addFlow(p10,
+		 * tau8); pnBPI2012.addFlow(tau8, p11); pnBPI2012.addFlow(p11, tau23);
+		 * pnBPI2012.addFlow(tau23, p38); pnBPI2012.addFlow(p38, tau24);
+		 * pnBPI2012.addFlow(tau24, p39);
+		 * 
+		 * pnBPI2012.addFlow(tau5, p15); pnBPI2012.addFlow(p15, tau7);
+		 * pnBPI2012.addFlow(p15, t6); pnBPI2012.addFlow(tau7, p16);
+		 * pnBPI2012.addFlow(t6, p16); pnBPI2012.addFlow(p16, tau9);
+		 * 
+		 * pnBPI2012.addFlow(tau9, p17); pnBPI2012.addFlow(p17, tau10);
+		 * pnBPI2012.addFlow(p17, t7); pnBPI2012.addFlow(tau10, p18);
+		 * pnBPI2012.addFlow(t7, p18); pnBPI2012.addFlow(p18, tau22);
+		 * pnBPI2012.addFlow(tau22, p37); pnBPI2012.addFlow(p37, tau23);
+		 * 
+		 * pnBPI2012.addFlow(tau9, p19); pnBPI2012.addFlow(p19, tau11);
+		 * pnBPI2012.addFlow(p19, t8); pnBPI2012.addFlow(tau11, p20);
+		 * pnBPI2012.addFlow(t8, p20); pnBPI2012.addFlow(p20, tau12);
+		 * 
+		 * pnBPI2012.addFlow(tau12, p21); pnBPI2012.addFlow(p21, tau13);
+		 * pnBPI2012.addFlow(p21, t9); pnBPI2012.addFlow(tau13, p22);
+		 * pnBPI2012.addFlow(t9, p22); pnBPI2012.addFlow(p22, tau21);
+		 * pnBPI2012.addFlow(tau21, p36); pnBPI2012.addFlow(p36, tau22);
+		 * 
+		 * pnBPI2012.addFlow(tau12, p23); pnBPI2012.addFlow(p23, t10); // loop
+		 * pnBPI2012.addFlow(t10, p28); pnBPI2012.addFlow(p28, tauD6);
+		 * pnBPI2012.addFlow(tauD6, p34); pnBPI2012.addFlow(p28, t15);
+		 * pnBPI2012.addFlow(t15, p34); pnBPI2012.addFlow(p34, taul6);
+		 * pnBPI2012.addFlow(taul6, p28); // end loop pnBPI2012.addFlow(p34,
+		 * tau20); pnBPI2012.addFlow(tau20, p35); pnBPI2012.addFlow(p35, tau21);
+		 * 
+		 * pnBPI2012.addFlow(p23, tau14); pnBPI2012.addFlow(tau14, p24); // loop
+		 * pnBPI2012.addFlow(p24, t11); pnBPI2012.addFlow(t11, p25);
+		 * pnBPI2012.addFlow(p25, t12); pnBPI2012.addFlow(t12, p26);
+		 * pnBPI2012.addFlow(p26, tau18); pnBPI2012.addFlow(p26, t13);
+		 * pnBPI2012.addFlow(t13, p27); pnBPI2012.addFlow(tau18, p27);
+		 * pnBPI2012.addFlow(p27, t14); pnBPI2012.addFlow(t14, p24); // end loop
+		 * pnBPI2012.addFlow(p27, tau19); pnBPI2012.addFlow(tau19, p28);
+		 * 
+		 * pnBPI2012.addFlow(p23, tau15); pnBPI2012.addFlow(tau15, p29); // loop
+		 * pnBPI2012.addFlow(p29, t16); pnBPI2012.addFlow(t16, p30);
+		 * pnBPI2012.addFlow(p29, tauD5); pnBPI2012.addFlow(tauD5, p30);
+		 * pnBPI2012.addFlow(p30, taul5); pnBPI2012.addFlow(taul5, p29); // end
+		 * loop pnBPI2012.addFlow(p30, tau16); pnBPI2012.addFlow(tau16, p31);
+		 * pnBPI2012.addFlow(p31, tau17); pnBPI2012.addFlow(tau17, p35);
+		 * 
+		 * pnBPI2012.addFlow(tau15, p32); pnBPI2012.addFlow(p32, t17);
+		 * pnBPI2012.addFlow(t17, p33); pnBPI2012.addFlow(p33, tau17);
+		 */
+		/*
+		 * PetriNet pnRec = new PetriNet();
+		 * 
+		 * Transition t1 = new Transition("Confirmation of receipt"); Transition
+		 * t2 = new Transition("T02 Check confirmation of receipt"); Transition
+		 * t3 = new Transition("T04 Determine confirmation of receipt");
+		 * Transition t4 = new Transition(
+		 * "T05 Print and send confirmation of receipt"); Transition t5 = new
+		 * Transition("T07-1 Draft intern advice aspect 1"); Transition t6 = new
+		 * Transition("T08 Draft and send request for advice"); Transition t7 =
+		 * new Transition(
+		 * "T09-1 Process or receive external advice from party 1"); Transition
+		 * t8 = new Transition("T06 Determine necessity of stop advice");
+		 * Transition t9 = new Transition(
+		 * "T10 Determine necessity to stop indication"); Transition t10 = new
+		 * Transition("T16 Report reasons to hold request"); Transition t11 =
+		 * new Transition("T17 Check report Y to stop indication"); Transition
+		 * t12 = new Transition( "T19 Determine report Y to stop indication");
+		 * Transition t13 = new Transition(
+		 * "T20 Print report Y to stop indication"); Transition t14 = new
+		 * Transition( "T11 Create document X request unlicensed"); Transition
+		 * t15 = new Transition( "T12 Check document X request unlicensed");
+		 * Transition t16 = new Transition(
+		 * "T14 Determine document X request unlicensed"); Transition t17 = new
+		 * Transition( "T15 Print document X request unlicensed");
+		 * 
+		 * Transition tt1 = new Transition("tau from tree"); Transition tt2 =
+		 * new Transition("tau from tree"); Transition tt3 = new Transition(
+		 * "tau from tree"); Transition tt4 = new Transition("tau from tree");
+		 * Transition tt5 = new Transition("tau from tree"); Transition tt6 =
+		 * new Transition("tau from tree"); Transition tt7 = new Transition(
+		 * "tau from tree"); Transition tt8 = new Transition("tau from tree");
+		 * Transition tt9 = new Transition("tau from tree");
+		 * 
+		 * pnRec.addNode(t1); pnRec.addNode(t2); pnRec.addNode(t3);
+		 * pnRec.addNode(t4); pnRec.addNode(t5); pnRec.addNode(t6);
+		 * pnRec.addNode(t7); pnRec.addNode(t8); pnRec.addNode(t9);
+		 * pnRec.addNode(t10); pnRec.addNode(t11); pnRec.addNode(t12);
+		 * pnRec.addNode(t13); pnRec.addNode(t14); pnRec.addNode(t15);
+		 * pnRec.addNode(t16); pnRec.addNode(t17);
+		 * 
+		 * pnRec.addNode(tt1); pnRec.addNode(tt2); pnRec.addNode(tt3);
+		 * pnRec.addNode(tt4); pnRec.addNode(tt5); pnRec.addNode(tt6);
+		 * pnRec.addNode(tt7); pnRec.addNode(tt8); pnRec.addNode(tt9);
+		 * 
+		 * Place p1 = new Place("1"); Place p2 = new Place("2"); Place p3 = new
+		 * Place("3"); Place p4 = new Place("4"); Place p5 = new Place("5");
+		 * Place p6 = new Place("6"); Place p7 = new Place("7"); Place p8 = new
+		 * Place("8"); Place p9 = new Place("9"); Place p10 = new Place("10");
+		 * Place p11 = new Place("11"); Place p12 = new Place("12"); Place p13 =
+		 * new Place("13"); Place p14 = new Place("14"); Place p15 = new
+		 * Place("15"); Place p16 = new Place("16"); Place p17 = new
+		 * Place("17"); Place p18 = new Place("18");
+		 * 
+		 * pnRec.addNode(p1); pnRec.addNode(p2); pnRec.addNode(p3);
+		 * pnRec.addNode(p4); pnRec.addNode(p5); pnRec.addNode(p6);
+		 * pnRec.addNode(p7); pnRec.addNode(p8); pnRec.addNode(p9);
+		 * pnRec.addNode(p10); pnRec.addNode(p11); pnRec.addNode(p12);
+		 * pnRec.addNode(p13); pnRec.addNode(p14); pnRec.addNode(p15);
+		 * pnRec.addNode(p16); pnRec.addNode(p17); pnRec.addNode(p18);
+		 * 
+		 * pnRec.addFlow(p1, t1); pnRec.addFlow(t1, p2); pnRec.addFlow(p2, tt1);
+		 * pnRec.addFlow(p2, tt2); pnRec.addFlow(tt2, p3); pnRec.addFlow(p3,
+		 * t2); pnRec.addFlow(t2, p4); pnRec.addFlow(p4, t3); pnRec.addFlow(t3,
+		 * p5); pnRec.addFlow(p5, t4); pnRec.addFlow(t4, p6); pnRec.addFlow(p6,
+		 * t5); pnRec.addFlow(p6, tt3); pnRec.addFlow(t5, p7);
+		 * pnRec.addFlow(tt3, p7); pnRec.addFlow(p7, t6); pnRec.addFlow(p7,
+		 * tt4); pnRec.addFlow(t6, p8); pnRec.addFlow(tt4, p8);
+		 * pnRec.addFlow(p8, t7); pnRec.addFlow(p8, tt5); pnRec.addFlow(t7, p9);
+		 * pnRec.addFlow(tt5, p9); pnRec.addFlow(p9, t8); pnRec.addFlow(t8,p10);
+		 * pnRec.addFlow(p10, t9); pnRec.addFlow(t9, p11);
+		 * 
+		 * pnRec.addFlow(tt1, p11);
+		 * 
+		 * pnRec.addFlow(p11, tt6); pnRec.addFlow(p11, t10); pnRec.addFlow(p11,
+		 * t14);
+		 * 
+		 * pnRec.addFlow(tt6, p18);
+		 * 
+		 * pnRec.addFlow(t10,p12); pnRec.addFlow(p12,t11);
+		 * pnRec.addFlow(t11,p13); pnRec.addFlow(p13,t12);
+		 * pnRec.addFlow(t12,p14); pnRec.addFlow(p14,t13);
+		 * pnRec.addFlow(t13,p18);
+		 * 
+		 * pnRec.addFlow(t14,p15); pnRec.addFlow(p15,t15);
+		 * pnRec.addFlow(p15,tt7); pnRec.addFlow(t15,p16);
+		 * pnRec.addFlow(tt7,p16); pnRec.addFlow(p16,t16);
+		 * pnRec.addFlow(p16,tt8); pnRec.addFlow(t16,p17);
+		 * pnRec.addFlow(tt8,p17); pnRec.addFlow(p17,t17);
+		 * pnRec.addFlow(p17,tt9); pnRec.addFlow(t17,p18);
+		 * pnRec.addFlow(tt9,p18);
+		 */

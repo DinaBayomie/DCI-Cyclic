@@ -17,9 +17,8 @@ public class Loop {
 	private Collection<Node> innerEnds;
 	private boolean silentBranch;
 
-	public Loop(int _id, Collection<Node> _elements, Collection<Node> _starts,
-			Collection<Node> _ends, Collection<Node> _loopBranchElements,
-			Collection<Node> _innerEnds) {
+	public Loop(int _id, Collection<Node> _elements, Collection<Node> _starts, Collection<Node> _ends,
+			Collection<Node> _loopBranchElements, Collection<Node> _innerEnds) {
 		setId(_id);
 		setElements(_elements);
 		setStart(_starts);
@@ -91,27 +90,29 @@ public class Loop {
 	public void setInnerEnds(Collection<Node> innerEnds) {
 		this.innerEnds = innerEnds;
 	}
-	
-	public ArrayList<String> getElementsNames(){
-		ArrayList<String>elements=new ArrayList<String>();
-		for(Node n :this.elements){
+
+	public ArrayList<String> getElementsNames() {
+		ArrayList<String> elements = new ArrayList<String>();
+		for (Node n : this.elements) {
 			elements.add(n.getLabel());
 		}
 		return elements;
 	}
-	public void print(){
+
+	public void print() {
 		System.out.println("loop Start");
-		for(Node n :this.starts){
-			System.out.print(n.getLabel()+" , ");
+		for (Node n : this.starts) {
+			System.out.print(n.getLabel() + " , ");
 		}
+		System.out.println("");
 		System.out.println("loop element");
-		for(Node n :this.elements){
-			System.out.print(n.getLabel()+" , ");
+		for (Node n : this.elements) {
+			System.out.print(n.getLabel() + " , ");
 		}
+		System.out.println("");
 		System.out.println("loop end");
-		for(Node n :this.ends){
-			System.out.print(n.getLabel()+" , ");
+		for (Node n : this.ends) {
+			System.out.print(n.getLabel() + " , ");
 		}
 	}
 }
-
