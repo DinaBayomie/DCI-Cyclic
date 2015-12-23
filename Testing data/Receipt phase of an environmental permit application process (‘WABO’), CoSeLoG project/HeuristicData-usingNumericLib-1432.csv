@@ -1,0 +1,26 @@
+Activity,Min,Average,Max
+T02 Check confirmation of receipt,0.585,100538.802874085,9588298.164
+T03 Adjust confirmation of receipt,0.707,466776.900290909,5967762.154
+T06 Determine necessity of stop advice,0.523,186528.605485856,23239178.127
+T10 Determine necessity to stop indication,11.67,40606.5151389539,3618586.27
+T04 Determine confirmation of receipt,0.63,36676.054718774,2950473.63
+T05 Print and send confirmation of receipt,8.647,68564.4220493066,1906331.952
+T16 Report reasons to hold request,16.531,86891.61125,1309130.361
+T17 Check report Y to stop indication,14.231,90.9398846153846,784.592
+T19 Determine report Y to stop indication,13.354,44.1319,152.465
+T20 Print report Y to stop indication,10.84,27.82705,116.582
+T11 Create document X request unlicensed,0.481,302214.8045,7764094.62
+T12 Check document X request unlicensed,10.303,21885.4935526316,599894.15
+T14 Determine document X request unlicensed,12.27,51894.9487105263,593297.757
+T15 Print document X request unlicensed,9.95,252658.462315789,1376242.227
+T07-1 Draft intern advice aspect 1,10.542,149518.960733333,2941755.27
+T08 Draft and send request for advice,28.134,8888.19488888889,71991.399
+T09-1 Process or receive external advice from party 1,16.279,118.198857142857,466.949
+T07-5 Draft intern advice aspect 5,18.893,156359.980962963,1740933.932
+T09-4 Process or receive external advice from party 4,15.952,781.8302,2260.937
+T07-3 Draft intern advice hold for aspect 3,16.796,154742.44825,630312.694
+T07-4 Draft internal advice to hold for type 4,15.447,124625.667,598822.841
+T07-2 Draft intern advice aspect 2,0.691,201453.90990625,1821034.993
+T09-3 Process or receive external advice from party 3,13.96,389320.911,3113940.413
+T18 Adjust report Y to stop indicition,11.886,16.8921666666667,22.141
+T09-2 Process or receive external advice from party 2,591.956,591.956,591.956

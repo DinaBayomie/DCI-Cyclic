@@ -1,0 +1,1089 @@
+case Id,activity,timestamp
+1,Confirmation of receipt,10/11/2011 1:45:40 PM
+1,T02 Check confirmation of receipt,10/12/2011 8:26:25 AM
+1,T03 Adjust confirmation of receipt,11/24/2011 4:36:51 PM
+1,T02 Check confirmation of receipt,11/24/2011 4:37:16 PM
+2,Confirmation of receipt,10/18/2011 1:46:39 PM
+2,T06 Determine necessity of stop advice,10/18/2011 1:47:06 PM
+2,T02 Check confirmation of receipt,10/18/2011 1:47:26 PM
+2,T03 Adjust confirmation of receipt,10/18/2011 1:47:41 PM
+2,T02 Check confirmation of receipt,10/18/2011 1:47:57 PM
+2,T10 Determine necessity to stop indication,10/18/2011 1:48:15 PM
+2,T03 Adjust confirmation of receipt,10/18/2011 1:48:30 PM
+2,T02 Check confirmation of receipt,10/18/2011 1:51:01 PM
+2,T03 Adjust confirmation of receipt,10/18/2011 1:56:57 PM
+3,Confirmation of receipt,10/18/2011 3:53:19 PM
+3,T02 Check confirmation of receipt,10/18/2011 3:53:38 PM
+3,T04 Determine confirmation of receipt,10/18/2011 3:53:53 PM
+3,T05 Print and send confirmation of receipt,10/18/2011 3:54:06 PM
+3,T06 Determine necessity of stop advice,10/18/2011 3:54:24 PM
+3,T10 Determine necessity to stop indication,10/18/2011 3:57:18 PM
+4,Confirmation of receipt,10/25/2011 9:27:08 AM
+4,T02 Check confirmation of receipt,10/25/2011 9:27:27 AM
+4,T04 Determine confirmation of receipt,10/25/2011 9:27:46 AM
+4,T05 Print and send confirmation of receipt,10/25/2011 9:28:00 AM
+4,T06 Determine necessity of stop advice,10/25/2011 9:28:15 AM
+4,T10 Determine necessity to stop indication,10/25/2011 9:28:33 AM
+5,Confirmation of receipt,10/25/2011 2:13:10 PM
+5,T02 Check confirmation of receipt,10/25/2011 2:13:31 PM
+5,T04 Determine confirmation of receipt,10/25/2011 2:13:49 PM
+5,T05 Print and send confirmation of receipt,10/25/2011 2:14:24 PM
+5,T06 Determine necessity of stop advice,10/25/2011 2:22:15 PM
+5,T10 Determine necessity to stop indication,10/25/2011 2:23:06 PM
+5,T16 Report reasons to hold request,10/25/2011 2:23:58 PM
+5,T17 Check report Y to stop indication,10/25/2011 2:24:22 PM
+5,T19 Determine report Y to stop indication,10/25/2011 2:24:55 PM
+5,T20 Print report Y to stop indication,10/25/2011 2:25:10 PM
+6,Confirmation of receipt,10/17/2011 3:31:27 PM
+6,T02 Check confirmation of receipt,10/17/2011 3:31:51 PM
+6,T04 Determine confirmation of receipt,10/17/2011 3:32:34 PM
+6,T05 Print and send confirmation of receipt,10/17/2011 3:33:42 PM
+6,T06 Determine necessity of stop advice,10/17/2011 3:34:25 PM
+6,T10 Determine necessity to stop indication,10/17/2011 3:41:19 PM
+7,Confirmation of receipt,10/24/2011 3:00:50 PM
+7,T06 Determine necessity of stop advice,10/24/2011 3:01:21 PM
+7,T10 Determine necessity to stop indication,10/24/2011 3:01:44 PM
+7,T02 Check confirmation of receipt,10/24/2011 3:01:59 PM
+7,T04 Determine confirmation of receipt,10/24/2011 3:02:16 PM
+7,T05 Print and send confirmation of receipt,10/24/2011 3:02:32 PM
+8,Confirmation of receipt,10/18/2011 1:34:39 PM
+9,Confirmation of receipt,10/28/2011 10:31:29 AM
+9,T02 Check confirmation of receipt,10/28/2011 10:31:49 AM
+9,T04 Determine confirmation of receipt,10/28/2011 10:32:08 AM
+9,T05 Print and send confirmation of receipt,10/28/2011 10:32:49 AM
+9,T06 Determine necessity of stop advice,10/28/2011 10:45:06 AM
+9,T10 Determine necessity to stop indication,10/28/2011 11:01:50 AM
+10,Confirmation of receipt,11/22/2011 2:46:36 PM
+10,T02 Check confirmation of receipt,11/22/2011 2:48:39 PM
+10,T04 Determine confirmation of receipt,11/22/2011 2:49:21 PM
+10,T05 Print and send confirmation of receipt,11/22/2011 2:52:51 PM
+10,T06 Determine necessity of stop advice,11/22/2011 2:57:59 PM
+10,T10 Determine necessity to stop indication,11/22/2011 2:59:50 PM
+11,Confirmation of receipt,11/9/2011 9:39:03 PM
+11,T02 Check confirmation of receipt,11/9/2011 9:39:34 PM
+11,T04 Determine confirmation of receipt,11/9/2011 9:40:02 PM
+11,T05 Print and send confirmation of receipt,11/9/2011 9:40:26 PM
+11,T06 Determine necessity of stop advice,11/9/2011 9:40:49 PM
+11,T10 Determine necessity to stop indication,11/9/2011 9:41:13 PM
+12,Confirmation of receipt,10/20/2011 12:39:37 PM
+12,T02 Check confirmation of receipt,10/20/2011 12:40:07 PM
+12,T04 Determine confirmation of receipt,10/20/2011 12:40:31 PM
+12,T05 Print and send confirmation of receipt,10/20/2011 12:41:02 PM
+12,T06 Determine necessity of stop advice,10/20/2011 12:41:28 PM
+12,T10 Determine necessity to stop indication,10/20/2011 12:42:01 PM
+13,Confirmation of receipt,11/7/2011 4:10:10 PM
+13,T02 Check confirmation of receipt,11/7/2011 4:11:51 PM
+13,T04 Determine confirmation of receipt,11/7/2011 4:12:53 PM
+13,T05 Print and send confirmation of receipt,11/7/2011 4:13:17 PM
+13,T06 Determine necessity of stop advice,11/7/2011 4:14:49 PM
+13,T10 Determine necessity to stop indication,11/7/2011 4:16:47 PM
+14,Confirmation of receipt,11/9/2011 8:43:25 PM
+14,T06 Determine necessity of stop advice,11/9/2011 8:43:50 PM
+14,T02 Check confirmation of receipt,11/9/2011 8:44:27 PM
+14,T04 Determine confirmation of receipt,11/9/2011 8:44:58 PM
+14,T10 Determine necessity to stop indication,11/9/2011 8:45:21 PM
+14,T05 Print and send confirmation of receipt,11/9/2011 8:48:48 PM
+15,Confirmation of receipt,10/19/2011 9:56:55 AM
+15,T02 Check confirmation of receipt,10/19/2011 9:57:39 AM
+15,T04 Determine confirmation of receipt,10/19/2011 9:58:15 AM
+15,T05 Print and send confirmation of receipt,10/19/2011 9:58:36 AM
+15,T06 Determine necessity of stop advice,10/19/2011 9:58:54 AM
+15,T10 Determine necessity to stop indication,10/20/2011 2:06:59 PM
+15,T11 Create document X request unlicensed,1/18/2012 10:48:33 AM
+15,T12 Check document X request unlicensed,1/18/2012 10:49:09 AM
+15,T14 Determine document X request unlicensed,1/18/2012 10:49:44 AM
+15,T15 Print document X request unlicensed,1/18/2012 10:50:57 AM
+16,Confirmation of receipt,10/31/2011 12:09:14 PM
+16,T02 Check confirmation of receipt,10/31/2011 12:10:03 PM
+16,T04 Determine confirmation of receipt,10/31/2011 12:10:37 PM
+16,T05 Print and send confirmation of receipt,10/31/2011 12:10:54 PM
+16,T06 Determine necessity of stop advice,10/31/2011 12:36:38 PM
+16,T10 Determine necessity to stop indication,10/31/2011 12:37:11 PM
+17,Confirmation of receipt,11/29/2011 3:28:08 PM
+17,T02 Check confirmation of receipt,11/29/2011 3:40:03 PM
+17,T04 Determine confirmation of receipt,11/29/2011 3:40:32 PM
+17,T05 Print and send confirmation of receipt,11/29/2011 3:41:12 PM
+17,T06 Determine necessity of stop advice,11/29/2011 3:42:10 PM
+17,T07-1 Draft intern advice aspect 1,11/30/2011 11:53:50 AM
+17,T08 Draft and send request for advice,11/30/2011 11:54:46 AM
+17,T09-1 Process or receive external advice from party 1,11/30/2011 12:02:33 PM
+17,T06 Determine necessity of stop advice,11/30/2011 12:04:28 PM
+17,T10 Determine necessity to stop indication,11/30/2011 12:05:12 PM
+18,Confirmation of receipt,10/20/2011 11:57:52 AM
+19,Confirmation of receipt,10/24/2011 3:57:27 PM
+19,T02 Check confirmation of receipt,10/24/2011 3:57:45 PM
+19,T04 Determine confirmation of receipt,10/24/2011 3:58:02 PM
+19,T05 Print and send confirmation of receipt,10/24/2011 3:58:19 PM
+19,T06 Determine necessity of stop advice,10/24/2011 3:58:34 PM
+19,T10 Determine necessity to stop indication,10/24/2011 3:58:55 PM
+20,Confirmation of receipt,10/18/2011 4:12:35 PM
+20,T02 Check confirmation of receipt,10/18/2011 4:14:00 PM
+20,T04 Determine confirmation of receipt,10/18/2011 4:14:55 PM
+20,T05 Print and send confirmation of receipt,10/18/2011 4:15:26 PM
+20,T06 Determine necessity of stop advice,10/18/2011 4:16:01 PM
+20,T10 Determine necessity to stop indication,10/18/2011 4:16:30 PM
+20,T11 Create document X request unlicensed,10/24/2011 12:02:20 PM
+21,Confirmation of receipt,10/24/2011 4:25:16 PM
+21,T02 Check confirmation of receipt,10/24/2011 4:25:48 PM
+21,T04 Determine confirmation of receipt,10/24/2011 4:26:08 PM
+21,T05 Print and send confirmation of receipt,10/24/2011 4:26:35 PM
+21,T06 Determine necessity of stop advice,10/24/2011 4:27:22 PM
+21,T10 Determine necessity to stop indication,10/24/2011 4:27:44 PM
+22,Confirmation of receipt,10/25/2011 3:07:27 PM
+22,T02 Check confirmation of receipt,10/25/2011 3:07:50 PM
+22,T04 Determine confirmation of receipt,10/25/2011 3:08:07 PM
+22,T05 Print and send confirmation of receipt,10/25/2011 3:08:27 PM
+22,T06 Determine necessity of stop advice,10/25/2011 3:08:48 PM
+22,T10 Determine necessity to stop indication,10/25/2011 3:09:15 PM
+23,Confirmation of receipt,11/14/2011 10:26:07 AM
+24,Confirmation of receipt,10/25/2011 4:06:58 PM
+24,T02 Check confirmation of receipt,10/25/2011 4:07:20 PM
+24,T04 Determine confirmation of receipt,10/25/2011 4:07:48 PM
+24,T05 Print and send confirmation of receipt,10/25/2011 4:08:23 PM
+24,T06 Determine necessity of stop advice,10/25/2011 4:08:54 PM
+24,T10 Determine necessity to stop indication,10/25/2011 4:09:21 PM
+25,Confirmation of receipt,10/26/2011 9:04:38 AM
+25,T02 Check confirmation of receipt,10/26/2011 9:04:58 AM
+25,T04 Determine confirmation of receipt,10/26/2011 9:05:15 AM
+25,T05 Print and send confirmation of receipt,10/26/2011 9:05:29 AM
+25,T06 Determine necessity of stop advice,10/26/2011 9:05:43 AM
+25,T10 Determine necessity to stop indication,10/26/2011 9:07:16 AM
+26,Confirmation of receipt,10/26/2011 11:44:51 AM
+26,T02 Check confirmation of receipt,10/26/2011 11:45:23 AM
+26,T04 Determine confirmation of receipt,10/26/2011 11:45:54 AM
+26,T05 Print and send confirmation of receipt,10/26/2011 11:46:16 AM
+26,T06 Determine necessity of stop advice,10/26/2011 11:46:40 AM
+26,T10 Determine necessity to stop indication,10/26/2011 11:47:15 AM
+27,Confirmation of receipt,10/20/2011 11:06:16 AM
+27,T02 Check confirmation of receipt,10/27/2011 1:46:27 PM
+27,T04 Determine confirmation of receipt,10/27/2011 1:46:49 PM
+27,T05 Print and send confirmation of receipt,10/27/2011 3:11:16 PM
+27,T06 Determine necessity of stop advice,11/17/2011 9:13:20 AM
+27,T10 Determine necessity to stop indication,11/17/2011 9:14:21 AM
+28,Confirmation of receipt,11/15/2011 8:20:14 AM
+28,T02 Check confirmation of receipt,11/15/2011 8:20:38 AM
+28,T04 Determine confirmation of receipt,11/15/2011 8:21:00 AM
+28,T05 Print and send confirmation of receipt,11/15/2011 8:21:22 AM
+28,T06 Determine necessity of stop advice,11/15/2011 8:42:16 AM
+28,T10 Determine necessity to stop indication,11/15/2011 8:42:43 AM
+29,Confirmation of receipt,10/26/2011 2:45:46 PM
+29,T02 Check confirmation of receipt,10/26/2011 2:46:05 PM
+29,T04 Determine confirmation of receipt,10/26/2011 2:46:20 PM
+29,T05 Print and send confirmation of receipt,10/26/2011 2:46:39 PM
+29,T06 Determine necessity of stop advice,10/26/2011 2:46:55 PM
+29,T10 Determine necessity to stop indication,10/26/2011 2:47:17 PM
+30,Confirmation of receipt,10/25/2011 9:56:31 AM
+30,T02 Check confirmation of receipt,10/25/2011 9:57:00 AM
+30,T04 Determine confirmation of receipt,10/25/2011 11:34:25 AM
+30,T05 Print and send confirmation of receipt,10/25/2011 11:34:46 AM
+30,T06 Determine necessity of stop advice,10/25/2011 11:35:58 AM
+30,T10 Determine necessity to stop indication,10/25/2011 1:45:05 PM
+31,Confirmation of receipt,10/27/2011 8:37:51 AM
+31,T02 Check confirmation of receipt,10/27/2011 8:38:11 AM
+31,T04 Determine confirmation of receipt,10/27/2011 8:38:39 AM
+31,T05 Print and send confirmation of receipt,10/27/2011 8:39:02 AM
+31,T06 Determine necessity of stop advice,10/27/2011 8:39:43 AM
+31,T10 Determine necessity to stop indication,10/27/2011 8:40:03 AM
+32,Confirmation of receipt,10/26/2011 3:04:21 PM
+32,T02 Check confirmation of receipt,10/26/2011 3:04:43 PM
+32,T04 Determine confirmation of receipt,10/26/2011 3:05:00 PM
+32,T05 Print and send confirmation of receipt,10/26/2011 3:05:19 PM
+32,T06 Determine necessity of stop advice,10/26/2011 3:05:34 PM
+32,T10 Determine necessity to stop indication,10/26/2011 3:05:59 PM
+33,Confirmation of receipt,10/26/2011 3:40:46 PM
+33,T06 Determine necessity of stop advice,10/26/2011 3:41:05 PM
+33,T02 Check confirmation of receipt,10/26/2011 3:41:23 PM
+33,T04 Determine confirmation of receipt,10/26/2011 3:41:39 PM
+33,T05 Print and send confirmation of receipt,10/26/2011 3:41:56 PM
+33,T10 Determine necessity to stop indication,10/26/2011 3:42:22 PM
+34,Confirmation of receipt,12/8/2011 3:52:51 PM
+34,T02 Check confirmation of receipt,12/8/2011 3:53:26 PM
+34,T04 Determine confirmation of receipt,12/8/2011 3:53:55 PM
+34,T06 Determine necessity of stop advice,12/8/2011 3:55:00 PM
+34,T10 Determine necessity to stop indication,12/8/2011 3:55:37 PM
+34,T05 Print and send confirmation of receipt,12/14/2011 2:36:32 PM
+35,Confirmation of receipt,10/21/2011 10:07:16 AM
+36,Confirmation of receipt,11/7/2011 4:24:56 PM
+36,T02 Check confirmation of receipt,11/7/2011 4:25:45 PM
+36,T04 Determine confirmation of receipt,11/16/2011 1:05:43 PM
+36,T05 Print and send confirmation of receipt,11/16/2011 1:06:16 PM
+36,T06 Determine necessity of stop advice,11/16/2011 1:06:32 PM
+36,T10 Determine necessity to stop indication,11/16/2011 1:07:02 PM
+37,Confirmation of receipt,10/26/2011 4:07:55 PM
+37,T02 Check confirmation of receipt,10/26/2011 4:10:03 PM
+37,T04 Determine confirmation of receipt,10/26/2011 4:10:19 PM
+37,T05 Print and send confirmation of receipt,10/26/2011 4:10:44 PM
+37,T06 Determine necessity of stop advice,10/26/2011 4:10:58 PM
+37,T10 Determine necessity to stop indication,10/26/2011 4:11:19 PM
+38,Confirmation of receipt,11/10/2011 12:00:39 PM
+38,T02 Check confirmation of receipt,11/10/2011 12:01:15 PM
+38,T04 Determine confirmation of receipt,11/10/2011 12:02:07 PM
+38,T05 Print and send confirmation of receipt,11/10/2011 12:02:24 PM
+38,T06 Determine necessity of stop advice,11/10/2011 12:02:41 PM
+38,T10 Determine necessity to stop indication,11/10/2011 12:03:55 PM
+39,Confirmation of receipt,10/25/2011 3:20:00 PM
+39,T02 Check confirmation of receipt,10/25/2011 3:21:08 PM
+39,T04 Determine confirmation of receipt,10/25/2011 3:21:33 PM
+39,T05 Print and send confirmation of receipt,10/25/2011 3:22:26 PM
+39,T06 Determine necessity of stop advice,10/25/2011 3:24:25 PM
+40,Confirmation of receipt,10/27/2011 10:17:24 AM
+41,Confirmation of receipt,10/27/2011 11:02:53 AM
+41,T02 Check confirmation of receipt,10/27/2011 11:18:08 AM
+41,T06 Determine necessity of stop advice,11/18/2011 5:02:51 PM
+41,T04 Determine confirmation of receipt,11/18/2011 5:02:52 PM
+42,Confirmation of receipt,12/9/2011 3:16:10 PM
+42,T02 Check confirmation of receipt,12/9/2011 3:16:39 PM
+42,T04 Determine confirmation of receipt,12/9/2011 3:17:02 PM
+42,T06 Determine necessity of stop advice,12/9/2011 3:17:35 PM
+42,T10 Determine necessity to stop indication,12/9/2011 3:24:28 PM
+42,T05 Print and send confirmation of receipt,12/9/2011 3:30:04 PM
+43,Confirmation of receipt,1/17/2012 12:28:47 PM
+44,Confirmation of receipt,1/17/2012 12:29:39 PM
+45,Confirmation of receipt,11/7/2011 9:53:41 AM
+45,T02 Check confirmation of receipt,11/7/2011 9:59:27 AM
+45,T04 Determine confirmation of receipt,11/7/2011 9:59:55 AM
+45,T05 Print and send confirmation of receipt,11/7/2011 10:00:26 AM
+45,T06 Determine necessity of stop advice,11/7/2011 10:03:53 AM
+45,T10 Determine necessity to stop indication,11/7/2011 10:04:19 AM
+46,Confirmation of receipt,11/7/2011 4:41:35 PM
+46,T06 Determine necessity of stop advice,11/7/2011 4:42:00 PM
+46,T02 Check confirmation of receipt,11/7/2011 4:42:25 PM
+46,T04 Determine confirmation of receipt,11/7/2011 4:42:53 PM
+46,T05 Print and send confirmation of receipt,11/7/2011 4:43:09 PM
+46,T10 Determine necessity to stop indication,11/7/2011 4:43:33 PM
+47,Confirmation of receipt,10/31/2011 1:27:03 PM
+47,T02 Check confirmation of receipt,10/31/2011 1:27:59 PM
+47,T04 Determine confirmation of receipt,10/31/2011 1:29:26 PM
+47,T05 Print and send confirmation of receipt,10/31/2011 1:30:30 PM
+47,T06 Determine necessity of stop advice,10/31/2011 1:30:58 PM
+47,T10 Determine necessity to stop indication,10/31/2011 1:31:26 PM
+48,Confirmation of receipt,11/11/2011 12:26:45 PM
+48,T02 Check confirmation of receipt,11/11/2011 12:27:13 PM
+48,T04 Determine confirmation of receipt,11/11/2011 12:27:35 PM
+48,T05 Print and send confirmation of receipt,11/11/2011 12:28:32 PM
+48,T06 Determine necessity of stop advice,11/11/2011 12:28:54 PM
+48,T10 Determine necessity to stop indication,11/11/2011 12:29:22 PM
+49,Confirmation of receipt,11/2/2011 5:23:22 PM
+50,Confirmation of receipt,11/7/2011 5:10:25 PM
+50,T02 Check confirmation of receipt,11/7/2011 5:10:46 PM
+50,T04 Determine confirmation of receipt,11/7/2011 5:11:03 PM
+50,T05 Print and send confirmation of receipt,11/7/2011 5:11:17 PM
+50,T06 Determine necessity of stop advice,11/7/2011 5:11:33 PM
+50,T10 Determine necessity to stop indication,11/7/2011 5:11:56 PM
+51,Confirmation of receipt,11/7/2011 5:38:30 PM
+51,T02 Check confirmation of receipt,11/7/2011 5:39:57 PM
+51,T04 Determine confirmation of receipt,11/7/2011 5:40:14 PM
+51,T05 Print and send confirmation of receipt,11/7/2011 5:40:27 PM
+51,T06 Determine necessity of stop advice,11/7/2011 5:40:42 PM
+51,T10 Determine necessity to stop indication,11/7/2011 5:41:08 PM
+52,Confirmation of receipt,11/8/2011 10:00:30 AM
+52,T02 Check confirmation of receipt,11/8/2011 10:01:19 AM
+52,T04 Determine confirmation of receipt,11/8/2011 10:01:39 AM
+52,T05 Print and send confirmation of receipt,11/8/2011 10:01:56 AM
+52,T06 Determine necessity of stop advice,11/8/2011 10:02:13 AM
+52,T10 Determine necessity to stop indication,11/8/2011 10:02:42 AM
+53,Confirmation of receipt,11/29/2011 1:27:58 PM
+53,T02 Check confirmation of receipt,11/29/2011 1:29:42 PM
+53,T04 Determine confirmation of receipt,11/29/2011 1:30:24 PM
+53,T05 Print and send confirmation of receipt,11/29/2011 1:30:47 PM
+53,T06 Determine necessity of stop advice,11/29/2011 1:41:42 PM
+53,T10 Determine necessity to stop indication,11/29/2011 1:43:19 PM
+54,Confirmation of receipt,11/24/2011 3:48:41 PM
+54,T02 Check confirmation of receipt,11/24/2011 3:49:36 PM
+54,T04 Determine confirmation of receipt,11/24/2011 3:50:25 PM
+54,T05 Print and send confirmation of receipt,11/24/2011 3:51:41 PM
+54,T06 Determine necessity of stop advice,11/24/2011 4:25:55 PM
+54,T10 Determine necessity to stop indication,11/24/2011 4:27:02 PM
+55,Confirmation of receipt,11/8/2011 10:18:47 AM
+55,T02 Check confirmation of receipt,11/8/2011 10:20:22 AM
+55,T04 Determine confirmation of receipt,11/8/2011 10:20:41 AM
+55,T05 Print and send confirmation of receipt,11/8/2011 10:20:56 AM
+55,T06 Determine necessity of stop advice,11/8/2011 10:21:16 AM
+55,T10 Determine necessity to stop indication,11/8/2011 10:21:43 AM
+56,Confirmation of receipt,12/7/2011 10:11:29 AM
+56,T06 Determine necessity of stop advice,12/7/2011 11:01:02 AM
+56,T02 Check confirmation of receipt,12/7/2011 11:04:22 AM
+56,T04 Determine confirmation of receipt,12/7/2011 11:05:05 AM
+56,T05 Print and send confirmation of receipt,12/7/2011 11:05:36 AM
+56,T10 Determine necessity to stop indication,12/7/2011 11:16:31 AM
+57,Confirmation of receipt,10/31/2011 11:14:35 AM
+58,Confirmation of receipt,12/7/2011 1:16:57 PM
+58,T02 Check confirmation of receipt,12/7/2011 1:20:41 PM
+58,T04 Determine confirmation of receipt,12/7/2011 1:21:05 PM
+58,T05 Print and send confirmation of receipt,12/7/2011 1:21:28 PM
+58,T06 Determine necessity of stop advice,12/7/2011 1:21:51 PM
+58,T10 Determine necessity to stop indication,12/7/2011 1:22:21 PM
+59,Confirmation of receipt,11/2/2011 5:13:16 PM
+60,Confirmation of receipt,12/7/2011 3:16:30 PM
+61,Confirmation of receipt,11/18/2011 3:15:19 PM
+61,T02 Check confirmation of receipt,11/18/2011 3:15:51 PM
+61,T04 Determine confirmation of receipt,11/18/2011 3:17:30 PM
+61,T06 Determine necessity of stop advice,11/29/2011 3:23:32 PM
+61,T05 Print and send confirmation of receipt,11/30/2011 1:02:03 PM
+62,Confirmation of receipt,11/15/2011 12:45:03 PM
+63,Confirmation of receipt,12/9/2011 11:19:25 AM
+64,Confirmation of receipt,11/9/2011 11:10:47 AM
+64,T06 Determine necessity of stop advice,11/9/2011 11:11:19 AM
+64,T02 Check confirmation of receipt,11/9/2011 11:11:49 AM
+64,T04 Determine confirmation of receipt,11/9/2011 11:12:31 AM
+64,T05 Print and send confirmation of receipt,11/9/2011 11:17:20 AM
+64,T10 Determine necessity to stop indication,11/9/2011 11:17:42 AM
+65,Confirmation of receipt,11/9/2011 10:19:20 AM
+65,T02 Check confirmation of receipt,11/9/2011 10:22:21 AM
+65,T04 Determine confirmation of receipt,11/9/2011 10:22:39 AM
+65,T05 Print and send confirmation of receipt,11/9/2011 10:22:57 AM
+65,T06 Determine necessity of stop advice,11/9/2011 10:23:13 AM
+65,T10 Determine necessity to stop indication,11/9/2011 10:31:00 AM
+66,Confirmation of receipt,11/9/2011 11:36:08 AM
+66,T02 Check confirmation of receipt,11/9/2011 11:36:27 AM
+66,T04 Determine confirmation of receipt,11/9/2011 11:36:44 AM
+66,T05 Print and send confirmation of receipt,11/9/2011 11:36:59 AM
+66,T06 Determine necessity of stop advice,11/9/2011 11:37:15 AM
+66,T10 Determine necessity to stop indication,11/9/2011 11:37:34 AM
+67,Confirmation of receipt,11/10/2011 12:33:31 PM
+67,T02 Check confirmation of receipt,11/10/2011 12:37:51 PM
+67,T04 Determine confirmation of receipt,11/10/2011 12:38:11 PM
+67,T05 Print and send confirmation of receipt,11/10/2011 12:38:30 PM
+67,T06 Determine necessity of stop advice,11/10/2011 12:39:49 PM
+67,T10 Determine necessity to stop indication,11/10/2011 12:40:42 PM
+68,Confirmation of receipt,11/17/2011 4:25:46 PM
+69,Confirmation of receipt,11/9/2011 1:23:28 PM
+69,T02 Check confirmation of receipt,11/9/2011 1:23:55 PM
+69,T04 Determine confirmation of receipt,11/9/2011 1:24:19 PM
+69,T05 Print and send confirmation of receipt,11/9/2011 1:24:37 PM
+69,T06 Determine necessity of stop advice,11/9/2011 1:42:02 PM
+69,T10 Determine necessity to stop indication,11/9/2011 1:42:35 PM
+70,Confirmation of receipt,11/9/2011 12:01:38 PM
+70,T02 Check confirmation of receipt,11/9/2011 12:01:59 PM
+70,T04 Determine confirmation of receipt,11/9/2011 12:02:18 PM
+70,T05 Print and send confirmation of receipt,11/9/2011 12:02:37 PM
+70,T06 Determine necessity of stop advice,11/9/2011 12:03:10 PM
+70,T10 Determine necessity to stop indication,11/9/2011 12:03:41 PM
+71,Confirmation of receipt,11/10/2011 11:34:14 AM
+71,T02 Check confirmation of receipt,11/10/2011 11:34:33 AM
+71,T04 Determine confirmation of receipt,11/10/2011 11:34:50 AM
+71,T05 Print and send confirmation of receipt,11/10/2011 11:35:08 AM
+71,T06 Determine necessity of stop advice,11/10/2011 11:35:24 AM
+71,T10 Determine necessity to stop indication,11/10/2011 11:35:48 AM
+72,Confirmation of receipt,12/21/2011 2:52:38 PM
+73,Confirmation of receipt,11/15/2011 9:52:21 AM
+73,T02 Check confirmation of receipt,11/15/2011 9:53:38 AM
+73,T04 Determine confirmation of receipt,11/15/2011 9:54:00 AM
+73,T05 Print and send confirmation of receipt,11/15/2011 9:54:14 AM
+73,T06 Determine necessity of stop advice,11/15/2011 9:54:28 AM
+73,T10 Determine necessity to stop indication,11/15/2011 9:54:50 AM
+74,Confirmation of receipt,11/4/2011 2:05:32 PM
+74,T06 Determine necessity of stop advice,11/8/2011 12:03:26 PM
+74,T07-1 Draft intern advice aspect 1,12/12/2011 1:12:42 PM
+75,Confirmation of receipt,11/30/2011 4:55:18 PM
+75,T02 Check confirmation of receipt,11/30/2011 4:56:06 PM
+75,T04 Determine confirmation of receipt,11/30/2011 4:57:16 PM
+75,T05 Print and send confirmation of receipt,11/30/2011 4:57:41 PM
+75,T06 Determine necessity of stop advice,11/30/2011 4:58:23 PM
+75,T10 Determine necessity to stop indication,11/30/2011 5:04:43 PM
+76,Confirmation of receipt,11/17/2011 4:56:50 PM
+76,T02 Check confirmation of receipt,11/17/2011 4:57:14 PM
+76,T04 Determine confirmation of receipt,11/17/2011 4:57:53 PM
+76,T05 Print and send confirmation of receipt,11/17/2011 4:58:15 PM
+76,T06 Determine necessity of stop advice,11/17/2011 4:58:38 PM
+76,T10 Determine necessity to stop indication,11/17/2011 4:59:46 PM
+77,Confirmation of receipt,11/14/2011 2:52:08 PM
+77,T02 Check confirmation of receipt,11/14/2011 2:55:13 PM
+77,T04 Determine confirmation of receipt,11/14/2011 2:55:44 PM
+77,T05 Print and send confirmation of receipt,11/14/2011 2:56:07 PM
+77,T06 Determine necessity of stop advice,11/14/2011 2:57:03 PM
+77,T10 Determine necessity to stop indication,11/14/2011 2:57:28 PM
+78,Confirmation of receipt,11/10/2011 4:10:55 PM
+78,T02 Check confirmation of receipt,11/10/2011 4:11:15 PM
+78,T04 Determine confirmation of receipt,11/10/2011 4:11:31 PM
+78,T05 Print and send confirmation of receipt,11/10/2011 4:11:46 PM
+78,T06 Determine necessity of stop advice,11/10/2011 4:12:02 PM
+78,T10 Determine necessity to stop indication,11/10/2011 4:12:27 PM
+79,Confirmation of receipt,11/14/2011 11:50:37 AM
+79,T02 Check confirmation of receipt,11/14/2011 11:51:38 AM
+79,T04 Determine confirmation of receipt,11/14/2011 12:59:27 PM
+79,T05 Print and send confirmation of receipt,11/14/2011 1:00:15 PM
+79,T06 Determine necessity of stop advice,11/14/2011 1:00:44 PM
+79,T10 Determine necessity to stop indication,11/14/2011 1:01:17 PM
+80,Confirmation of receipt,11/7/2011 9:48:39 AM
+81,Confirmation of receipt,11/9/2011 12:29:46 PM
+81,T02 Check confirmation of receipt,11/9/2011 12:30:08 PM
+81,T04 Determine confirmation of receipt,11/9/2011 12:30:27 PM
+81,T05 Print and send confirmation of receipt,11/9/2011 12:30:44 PM
+81,T06 Determine necessity of stop advice,11/9/2011 12:31:04 PM
+81,T10 Determine necessity to stop indication,11/9/2011 12:31:33 PM
+81,T11 Create document X request unlicensed,11/9/2011 12:34:00 PM
+81,T12 Check document X request unlicensed,11/9/2011 12:40:14 PM
+81,T14 Determine document X request unlicensed,11/9/2011 12:40:39 PM
+81,T15 Print document X request unlicensed,11/14/2011 10:21:48 AM
+82,Confirmation of receipt,12/5/2011 10:42:18 AM
+83,Confirmation of receipt,11/17/2011 3:30:18 PM
+83,T02 Check confirmation of receipt,11/17/2011 3:48:22 PM
+83,T04 Determine confirmation of receipt,11/17/2011 3:49:24 PM
+83,T05 Print and send confirmation of receipt,11/17/2011 3:49:44 PM
+83,T06 Determine necessity of stop advice,11/17/2011 4:23:53 PM
+83,T10 Determine necessity to stop indication,11/17/2011 4:24:32 PM
+84,Confirmation of receipt,11/8/2011 1:51:26 PM
+84,T02 Check confirmation of receipt,11/8/2011 1:51:49 PM
+84,T04 Determine confirmation of receipt,11/8/2011 1:52:07 PM
+84,T05 Print and send confirmation of receipt,11/8/2011 1:52:24 PM
+84,T06 Determine necessity of stop advice,11/8/2011 1:52:43 PM
+84,T10 Determine necessity to stop indication,11/8/2011 1:53:03 PM
+85,Confirmation of receipt,11/25/2011 12:17:52 PM
+85,T02 Check confirmation of receipt,11/25/2011 12:18:56 PM
+85,T04 Determine confirmation of receipt,11/25/2011 12:19:28 PM
+85,T05 Print and send confirmation of receipt,11/25/2011 12:19:51 PM
+85,T06 Determine necessity of stop advice,11/25/2011 12:22:40 PM
+85,T10 Determine necessity to stop indication,11/25/2011 12:23:04 PM
+86,Confirmation of receipt,11/18/2011 10:09:30 AM
+86,T02 Check confirmation of receipt,11/18/2011 10:09:49 AM
+86,T04 Determine confirmation of receipt,11/18/2011 10:18:08 AM
+86,T05 Print and send confirmation of receipt,11/18/2011 10:18:24 AM
+86,T06 Determine necessity of stop advice,11/18/2011 10:18:39 AM
+86,T10 Determine necessity to stop indication,11/18/2011 10:19:13 AM
+86,T16 Report reasons to hold request,11/18/2011 10:19:33 AM
+86,T17 Check report Y to stop indication,11/18/2011 10:19:51 AM
+86,T19 Determine report Y to stop indication,11/18/2011 10:21:19 AM
+86,T20 Print report Y to stop indication,11/18/2011 10:21:34 AM
+87,Confirmation of receipt,12/7/2011 4:44:35 PM
+88,Confirmation of receipt,11/14/2011 1:58:01 PM
+88,T02 Check confirmation of receipt,11/14/2011 1:58:28 PM
+88,T04 Determine confirmation of receipt,11/14/2011 2:06:50 PM
+88,T05 Print and send confirmation of receipt,11/14/2011 2:07:46 PM
+88,T06 Determine necessity of stop advice,11/14/2011 2:09:12 PM
+88,T10 Determine necessity to stop indication,11/14/2011 2:09:55 PM
+89,Confirmation of receipt,11/30/2011 3:46:15 PM
+89,T02 Check confirmation of receipt,11/30/2011 3:47:01 PM
+89,T04 Determine confirmation of receipt,11/30/2011 3:47:52 PM
+89,T05 Print and send confirmation of receipt,11/30/2011 3:48:46 PM
+89,T06 Determine necessity of stop advice,11/30/2011 5:32:41 PM
+89,T10 Determine necessity to stop indication,11/30/2011 5:34:56 PM
+90,Confirmation of receipt,11/22/2011 3:30:37 PM
+90,T02 Check confirmation of receipt,11/22/2011 3:32:58 PM
+90,T04 Determine confirmation of receipt,11/22/2011 3:38:58 PM
+90,T05 Print and send confirmation of receipt,11/22/2011 3:41:49 PM
+90,T06 Determine necessity of stop advice,11/22/2011 3:45:24 PM
+90,T10 Determine necessity to stop indication,11/22/2011 3:45:46 PM
+91,Confirmation of receipt,11/22/2011 4:03:05 PM
+91,T02 Check confirmation of receipt,11/22/2011 4:03:37 PM
+91,T04 Determine confirmation of receipt,11/22/2011 4:03:59 PM
+91,T05 Print and send confirmation of receipt,11/22/2011 4:04:51 PM
+91,T06 Determine necessity of stop advice,11/22/2011 4:09:28 PM
+91,T10 Determine necessity to stop indication,11/22/2011 4:35:03 PM
+92,Confirmation of receipt,11/18/2011 10:53:38 AM
+92,T02 Check confirmation of receipt,11/18/2011 10:54:05 AM
+92,T04 Determine confirmation of receipt,11/18/2011 10:54:20 AM
+92,T05 Print and send confirmation of receipt,11/18/2011 10:54:54 AM
+92,T06 Determine necessity of stop advice,11/18/2011 10:55:15 AM
+92,T10 Determine necessity to stop indication,11/18/2011 10:55:50 AM
+92,T16 Report reasons to hold request,11/18/2011 10:56:06 AM
+92,T17 Check report Y to stop indication,11/18/2011 10:56:27 AM
+92,T19 Determine report Y to stop indication,11/18/2011 10:56:44 AM
+92,T20 Print report Y to stop indication,11/18/2011 10:56:58 AM
+93,Confirmation of receipt,11/25/2011 5:09:50 PM
+93,T02 Check confirmation of receipt,11/25/2011 5:10:19 PM
+93,T04 Determine confirmation of receipt,11/25/2011 5:10:39 PM
+93,T05 Print and send confirmation of receipt,11/25/2011 5:10:54 PM
+93,T06 Determine necessity of stop advice,11/25/2011 5:15:35 PM
+93,T10 Determine necessity to stop indication,11/25/2011 5:15:57 PM
+94,Confirmation of receipt,12/15/2011 3:10:18 PM
+94,T06 Determine necessity of stop advice,12/15/2011 3:10:56 PM
+94,T10 Determine necessity to stop indication,12/15/2011 3:12:14 PM
+94,T02 Check confirmation of receipt,12/15/2011 3:19:41 PM
+94,T04 Determine confirmation of receipt,12/15/2011 3:22:32 PM
+94,T05 Print and send confirmation of receipt,12/15/2011 3:25:00 PM
+95,Confirmation of receipt,11/17/2011 5:42:14 PM
+95,T02 Check confirmation of receipt,11/17/2011 5:42:35 PM
+95,T04 Determine confirmation of receipt,11/17/2011 5:42:51 PM
+95,T05 Print and send confirmation of receipt,11/17/2011 5:43:05 PM
+95,T06 Determine necessity of stop advice,11/17/2011 5:43:24 PM
+95,T10 Determine necessity to stop indication,11/17/2011 5:43:45 PM
+96,Confirmation of receipt,11/15/2011 12:50:45 PM
+96,T02 Check confirmation of receipt,11/15/2011 12:51:37 PM
+96,T04 Determine confirmation of receipt,11/15/2011 12:51:56 PM
+96,T05 Print and send confirmation of receipt,11/15/2011 12:52:14 PM
+96,T06 Determine necessity of stop advice,11/15/2011 12:52:55 PM
+96,T10 Determine necessity to stop indication,11/15/2011 12:53:23 PM
+97,Confirmation of receipt,11/28/2011 10:15:12 AM
+97,T02 Check confirmation of receipt,11/28/2011 10:31:16 AM
+97,T04 Determine confirmation of receipt,11/28/2011 10:31:39 AM
+97,T05 Print and send confirmation of receipt,11/28/2011 10:31:58 AM
+97,T06 Determine necessity of stop advice,11/28/2011 10:32:25 AM
+97,T10 Determine necessity to stop indication,11/28/2011 10:32:46 AM
+98,Confirmation of receipt,11/18/2011 11:39:14 AM
+98,T02 Check confirmation of receipt,11/18/2011 11:39:34 AM
+98,T04 Determine confirmation of receipt,11/18/2011 11:58:40 AM
+98,T05 Print and send confirmation of receipt,11/18/2011 12:13:53 PM
+98,T06 Determine necessity of stop advice,11/18/2011 12:14:23 PM
+99,Confirmation of receipt,1/9/2012 12:31:41 PM
+99,T02 Check confirmation of receipt,1/9/2012 12:32:15 PM
+99,T04 Determine confirmation of receipt,1/9/2012 12:32:51 PM
+99,T05 Print and send confirmation of receipt,1/9/2012 12:33:18 PM
+100,Confirmation of receipt,1/9/2012 1:11:30 PM
+100,T02 Check confirmation of receipt,1/9/2012 1:12:07 PM
+100,T04 Determine confirmation of receipt,1/9/2012 1:12:57 PM
+100,T05 Print and send confirmation of receipt,1/9/2012 1:13:51 PM
+101,Confirmation of receipt,11/18/2011 1:02:46 PM
+101,T02 Check confirmation of receipt,11/18/2011 1:03:07 PM
+101,T04 Determine confirmation of receipt,11/18/2011 1:03:27 PM
+101,T05 Print and send confirmation of receipt,11/18/2011 1:03:42 PM
+101,T06 Determine necessity of stop advice,11/18/2011 1:04:04 PM
+101,T10 Determine necessity to stop indication,11/18/2011 1:04:25 PM
+102,Confirmation of receipt,12/1/2011 3:44:04 PM
+102,T02 Check confirmation of receipt,12/1/2011 3:44:34 PM
+102,T04 Determine confirmation of receipt,12/1/2011 3:44:57 PM
+102,T05 Print and send confirmation of receipt,12/1/2011 3:45:21 PM
+102,T06 Determine necessity of stop advice,12/1/2011 3:47:15 PM
+102,T10 Determine necessity to stop indication,12/1/2011 3:47:58 PM
+103,Confirmation of receipt,11/22/2011 10:52:39 AM
+103,T02 Check confirmation of receipt,11/22/2011 10:53:28 AM
+103,T04 Determine confirmation of receipt,11/22/2011 10:53:51 AM
+103,T05 Print and send confirmation of receipt,11/22/2011 10:54:27 AM
+103,T06 Determine necessity of stop advice,11/22/2011 10:55:09 AM
+103,T10 Determine necessity to stop indication,11/22/2011 10:55:54 AM
+104,Confirmation of receipt,11/18/2011 3:15:41 PM
+104,T02 Check confirmation of receipt,11/18/2011 3:16:05 PM
+104,T04 Determine confirmation of receipt,11/18/2011 3:16:21 PM
+104,T05 Print and send confirmation of receipt,11/18/2011 3:17:48 PM
+104,T06 Determine necessity of stop advice,11/18/2011 3:18:13 PM
+104,T10 Determine necessity to stop indication,11/18/2011 3:18:48 PM
+105,Confirmation of receipt,11/18/2011 3:41:16 PM
+105,T02 Check confirmation of receipt,11/18/2011 3:41:39 PM
+105,T04 Determine confirmation of receipt,11/18/2011 3:41:55 PM
+105,T05 Print and send confirmation of receipt,11/18/2011 3:42:12 PM
+105,T06 Determine necessity of stop advice,11/18/2011 3:54:15 PM
+105,T10 Determine necessity to stop indication,11/18/2011 4:01:23 PM
+106,Confirmation of receipt,11/18/2011 4:22:24 PM
+106,T02 Check confirmation of receipt,11/18/2011 4:22:42 PM
+106,T04 Determine confirmation of receipt,11/18/2011 4:22:57 PM
+106,T05 Print and send confirmation of receipt,11/18/2011 4:23:20 PM
+106,T06 Determine necessity of stop advice,11/18/2011 4:23:34 PM
+106,T10 Determine necessity to stop indication,11/18/2011 4:24:52 PM
+107,Confirmation of receipt,12/15/2011 12:25:23 PM
+107,T02 Check confirmation of receipt,12/15/2011 12:26:04 PM
+107,T04 Determine confirmation of receipt,12/15/2011 12:26:41 PM
+107,T05 Print and send confirmation of receipt,12/15/2011 12:27:17 PM
+107,T06 Determine necessity of stop advice,12/15/2011 12:29:36 PM
+107,T10 Determine necessity to stop indication,12/15/2011 12:30:06 PM
+108,Confirmation of receipt,11/28/2011 10:50:57 AM
+108,T06 Determine necessity of stop advice,11/28/2011 10:51:19 AM
+108,T02 Check confirmation of receipt,11/28/2011 10:51:59 AM
+108,T04 Determine confirmation of receipt,11/28/2011 10:52:31 AM
+108,T05 Print and send confirmation of receipt,11/28/2011 10:52:48 AM
+108,T10 Determine necessity to stop indication,11/28/2011 10:53:34 AM
+109,Confirmation of receipt,11/17/2011 4:11:00 PM
+109,T02 Check confirmation of receipt,11/17/2011 4:11:23 PM
+109,T04 Determine confirmation of receipt,11/17/2011 4:11:43 PM
+109,T05 Print and send confirmation of receipt,11/17/2011 4:12:03 PM
+109,T06 Determine necessity of stop advice,11/17/2011 4:16:28 PM
+109,T10 Determine necessity to stop indication,11/17/2011 4:16:57 PM
+110,Confirmation of receipt,11/30/2011 10:02:08 PM
+110,T02 Check confirmation of receipt,11/30/2011 10:02:49 PM
+110,T04 Determine confirmation of receipt,11/30/2011 10:03:54 PM
+110,T05 Print and send confirmation of receipt,11/30/2011 10:04:57 PM
+110,T06 Determine necessity of stop advice,11/30/2011 10:05:25 PM
+110,T10 Determine necessity to stop indication,11/30/2011 10:05:48 PM
+111,Confirmation of receipt,12/22/2011 1:44:26 PM
+111,T02 Check confirmation of receipt,12/22/2011 1:45:02 PM
+111,T04 Determine confirmation of receipt,12/22/2011 1:45:30 PM
+111,T06 Determine necessity of stop advice,12/22/2011 1:46:05 PM
+111,T10 Determine necessity to stop indication,12/22/2011 1:46:51 PM
+111,T05 Print and send confirmation of receipt,12/22/2011 1:47:21 PM
+112,Confirmation of receipt,11/24/2011 4:28:31 PM
+112,T02 Check confirmation of receipt,11/24/2011 4:28:49 PM
+112,T04 Determine confirmation of receipt,11/24/2011 4:29:09 PM
+112,T05 Print and send confirmation of receipt,11/24/2011 4:29:25 PM
+112,T06 Determine necessity of stop advice,11/24/2011 4:29:52 PM
+112,T10 Determine necessity to stop indication,11/24/2011 4:30:19 PM
+113,Confirmation of receipt,11/24/2011 4:17:03 PM
+113,T06 Determine necessity of stop advice,11/24/2011 4:17:28 PM
+113,T02 Check confirmation of receipt,11/24/2011 4:17:45 PM
+113,T04 Determine confirmation of receipt,11/24/2011 4:18:11 PM
+113,T05 Print and send confirmation of receipt,11/24/2011 4:18:29 PM
+113,T10 Determine necessity to stop indication,11/24/2011 4:18:46 PM
+114,Confirmation of receipt,11/24/2011 12:39:46 PM
+114,T02 Check confirmation of receipt,11/24/2011 12:46:52 PM
+114,T04 Determine confirmation of receipt,11/24/2011 12:48:07 PM
+114,T05 Print and send confirmation of receipt,11/24/2011 12:48:40 PM
+114,T06 Determine necessity of stop advice,11/24/2011 12:53:15 PM
+114,T10 Determine necessity to stop indication,11/24/2011 1:10:33 PM
+115,Confirmation of receipt,1/17/2012 12:24:14 PM
+115,T02 Check confirmation of receipt,1/17/2012 12:24:50 PM
+115,T04 Determine confirmation of receipt,1/17/2012 12:25:40 PM
+115,T05 Print and send confirmation of receipt,1/17/2012 12:26:47 PM
+116,Confirmation of receipt,11/24/2011 4:18:50 PM
+116,T02 Check confirmation of receipt,11/24/2011 4:20:34 PM
+116,T04 Determine confirmation of receipt,11/24/2011 4:21:12 PM
+116,T05 Print and send confirmation of receipt,11/24/2011 4:22:56 PM
+116,T06 Determine necessity of stop advice,11/24/2011 4:24:35 PM
+116,T10 Determine necessity to stop indication,11/28/2011 11:22:58 AM
+117,Confirmation of receipt,11/22/2011 2:48:53 PM
+117,T02 Check confirmation of receipt,11/22/2011 2:49:20 PM
+117,T04 Determine confirmation of receipt,11/22/2011 2:49:42 PM
+117,T05 Print and send confirmation of receipt,11/22/2011 2:50:08 PM
+117,T06 Determine necessity of stop advice,11/22/2011 2:50:35 PM
+117,T10 Determine necessity to stop indication,11/22/2011 2:50:57 PM
+118,Confirmation of receipt,1/11/2012 1:00:05 PM
+118,T06 Determine necessity of stop advice,1/11/2012 1:00:53 PM
+118,T10 Determine necessity to stop indication,1/11/2012 1:01:55 PM
+118,T02 Check confirmation of receipt,1/11/2012 1:02:51 PM
+118,T04 Determine confirmation of receipt,1/11/2012 1:04:31 PM
+118,T05 Print and send confirmation of receipt,1/11/2012 1:05:14 PM
+119,Confirmation of receipt,11/24/2011 3:48:48 PM
+119,T02 Check confirmation of receipt,11/24/2011 3:49:31 PM
+119,T04 Determine confirmation of receipt,11/24/2011 3:50:11 PM
+119,T05 Print and send confirmation of receipt,11/24/2011 3:50:42 PM
+119,T06 Determine necessity of stop advice,11/24/2011 3:50:57 PM
+119,T10 Determine necessity to stop indication,11/24/2011 3:51:29 PM
+120,Confirmation of receipt,11/22/2011 12:56:11 PM
+121,Confirmation of receipt,12/8/2011 3:15:29 PM
+121,T02 Check confirmation of receipt,12/8/2011 3:16:06 PM
+121,T04 Determine confirmation of receipt,12/8/2011 3:16:42 PM
+121,T05 Print and send confirmation of receipt,12/8/2011 3:17:07 PM
+121,T06 Determine necessity of stop advice,12/8/2011 3:17:39 PM
+121,T10 Determine necessity to stop indication,12/8/2011 3:40:56 PM
+122,Confirmation of receipt,12/9/2011 11:15:04 AM
+123,Confirmation of receipt,12/1/2011 9:33:35 AM
+123,T02 Check confirmation of receipt,12/1/2011 9:34:01 AM
+123,T04 Determine confirmation of receipt,12/1/2011 9:34:49 AM
+123,T05 Print and send confirmation of receipt,12/1/2011 9:36:40 AM
+123,T06 Determine necessity of stop advice,12/1/2011 9:37:42 AM
+123,T10 Determine necessity to stop indication,12/1/2011 9:38:10 AM
+124,Confirmation of receipt,11/24/2011 3:30:50 PM
+124,T06 Determine necessity of stop advice,11/24/2011 3:31:22 PM
+124,T02 Check confirmation of receipt,11/24/2011 3:31:48 PM
+124,T04 Determine confirmation of receipt,11/24/2011 3:32:07 PM
+124,T05 Print and send confirmation of receipt,11/24/2011 3:32:23 PM
+124,T10 Determine necessity to stop indication,11/24/2011 3:32:46 PM
+125,Confirmation of receipt,11/24/2011 10:15:49 AM
+126,Confirmation of receipt,12/15/2011 3:42:52 PM
+126,T02 Check confirmation of receipt,12/15/2011 3:45:08 PM
+126,T04 Determine confirmation of receipt,12/15/2011 3:45:47 PM
+126,T05 Print and send confirmation of receipt,12/15/2011 3:46:19 PM
+126,T06 Determine necessity of stop advice,12/15/2011 3:46:49 PM
+126,T10 Determine necessity to stop indication,12/15/2011 3:47:46 PM
+127,Confirmation of receipt,11/29/2011 12:46:06 PM
+127,T02 Check confirmation of receipt,11/29/2011 12:46:54 PM
+127,T04 Determine confirmation of receipt,11/29/2011 12:47:32 PM
+127,T06 Determine necessity of stop advice,11/29/2011 1:08:36 PM
+127,T10 Determine necessity to stop indication,11/29/2011 1:09:11 PM
+127,T05 Print and send confirmation of receipt,11/30/2011 1:02:36 PM
+128,Confirmation of receipt,11/30/2011 2:54:33 PM
+128,T02 Check confirmation of receipt,11/30/2011 2:54:56 PM
+128,T04 Determine confirmation of receipt,11/30/2011 2:55:14 PM
+128,T05 Print and send confirmation of receipt,11/30/2011 2:55:33 PM
+128,T06 Determine necessity of stop advice,11/30/2011 2:55:50 PM
+128,T10 Determine necessity to stop indication,11/30/2011 2:56:09 PM
+129,Confirmation of receipt,11/24/2011 5:28:52 PM
+129,T02 Check confirmation of receipt,11/24/2011 5:30:32 PM
+129,T04 Determine confirmation of receipt,11/24/2011 5:30:49 PM
+129,T05 Print and send confirmation of receipt,11/24/2011 5:31:26 PM
+129,T06 Determine necessity of stop advice,11/24/2011 5:31:57 PM
+129,T10 Determine necessity to stop indication,11/24/2011 5:32:30 PM
+130,Confirmation of receipt,12/21/2011 11:20:20 AM
+130,T02 Check confirmation of receipt,12/21/2011 11:46:42 AM
+130,T04 Determine confirmation of receipt,12/21/2011 11:47:24 AM
+130,T05 Print and send confirmation of receipt,12/21/2011 11:48:11 AM
+130,T06 Determine necessity of stop advice,12/21/2011 11:48:36 AM
+130,T10 Determine necessity to stop indication,12/21/2011 11:50:36 AM
+131,Confirmation of receipt,1/20/2012 2:02:41 PM
+131,T02 Check confirmation of receipt,1/20/2012 2:03:22 PM
+131,T04 Determine confirmation of receipt,1/20/2012 2:04:42 PM
+131,T05 Print and send confirmation of receipt,1/20/2012 2:05:14 PM
+131,T06 Determine necessity of stop advice,1/20/2012 2:05:47 PM
+131,T10 Determine necessity to stop indication,1/20/2012 2:06:25 PM
+132,Confirmation of receipt,12/2/2011 10:10:04 AM
+132,T02 Check confirmation of receipt,12/2/2011 10:53:30 AM
+132,T04 Determine confirmation of receipt,12/2/2011 10:54:36 AM
+132,T05 Print and send confirmation of receipt,12/2/2011 10:55:02 AM
+132,T06 Determine necessity of stop advice,12/2/2011 10:58:38 AM
+132,T10 Determine necessity to stop indication,12/2/2011 10:59:01 AM
+133,Confirmation of receipt,12/1/2011 11:44:22 AM
+133,T02 Check confirmation of receipt,12/1/2011 11:45:28 AM
+133,T04 Determine confirmation of receipt,12/1/2011 11:45:46 AM
+133,T05 Print and send confirmation of receipt,12/1/2011 11:46:04 AM
+133,T06 Determine necessity of stop advice,12/1/2011 1:52:52 PM
+133,T10 Determine necessity to stop indication,12/1/2011 1:53:18 PM
+134,Confirmation of receipt,1/16/2012 11:05:19 AM
+134,T02 Check confirmation of receipt,1/16/2012 11:27:20 AM
+134,T04 Determine confirmation of receipt,1/16/2012 11:35:25 AM
+134,T05 Print and send confirmation of receipt,1/16/2012 11:37:59 AM
+134,T06 Determine necessity of stop advice,1/16/2012 11:39:51 AM
+134,T10 Determine necessity to stop indication,1/16/2012 11:50:04 AM
+135,Confirmation of receipt,1/18/2012 11:04:47 AM
+135,T02 Check confirmation of receipt,1/18/2012 11:05:30 AM
+135,T04 Determine confirmation of receipt,1/18/2012 11:06:07 AM
+135,T05 Print and send confirmation of receipt,1/18/2012 11:06:51 AM
+135,T06 Determine necessity of stop advice,1/18/2012 11:07:26 AM
+135,T10 Determine necessity to stop indication,1/18/2012 11:08:01 AM
+136,Confirmation of receipt,12/2/2011 4:07:18 PM
+136,T02 Check confirmation of receipt,12/2/2011 4:07:47 PM
+136,T04 Determine confirmation of receipt,12/2/2011 4:08:06 PM
+136,T05 Print and send confirmation of receipt,12/2/2011 4:08:24 PM
+136,T06 Determine necessity of stop advice,12/2/2011 4:08:56 PM
+136,T10 Determine necessity to stop indication,12/2/2011 4:09:23 PM
+137,Confirmation of receipt,12/6/2011 4:01:49 PM
+137,T02 Check confirmation of receipt,12/6/2011 4:02:24 PM
+137,T04 Determine confirmation of receipt,12/6/2011 4:02:41 PM
+137,T05 Print and send confirmation of receipt,12/6/2011 4:02:57 PM
+137,T06 Determine necessity of stop advice,12/6/2011 4:03:19 PM
+137,T10 Determine necessity to stop indication,12/6/2011 4:04:39 PM
+138,Confirmation of receipt,12/2/2011 9:29:50 AM
+139,Confirmation of receipt,12/13/2011 2:04:48 PM
+139,T02 Check confirmation of receipt,12/13/2011 2:06:38 PM
+139,T06 Determine necessity of stop advice,12/13/2011 2:54:01 PM
+139,T10 Determine necessity to stop indication,12/13/2011 2:54:35 PM
+139,T04 Determine confirmation of receipt,12/13/2011 2:55:18 PM
+139,T05 Print and send confirmation of receipt,12/13/2011 2:59:02 PM
+140,Confirmation of receipt,11/30/2011 5:04:11 PM
+140,T02 Check confirmation of receipt,11/30/2011 5:04:34 PM
+140,T04 Determine confirmation of receipt,11/30/2011 5:05:16 PM
+140,T05 Print and send confirmation of receipt,11/30/2011 5:05:37 PM
+140,T06 Determine necessity of stop advice,11/30/2011 5:06:12 PM
+140,T10 Determine necessity to stop indication,11/30/2011 5:06:44 PM
+141,Confirmation of receipt,12/9/2011 1:49:19 PM
+141,T02 Check confirmation of receipt,12/9/2011 1:49:50 PM
+141,T04 Determine confirmation of receipt,12/9/2011 1:50:16 PM
+141,T05 Print and send confirmation of receipt,12/9/2011 1:50:39 PM
+141,T06 Determine necessity of stop advice,12/9/2011 1:50:59 PM
+141,T10 Determine necessity to stop indication,12/9/2011 1:51:22 PM
+142,Confirmation of receipt,12/6/2011 5:11:54 PM
+142,T02 Check confirmation of receipt,12/6/2011 5:12:17 PM
+142,T04 Determine confirmation of receipt,12/6/2011 5:12:35 PM
+142,T05 Print and send confirmation of receipt,12/6/2011 5:12:50 PM
+142,T06 Determine necessity of stop advice,12/6/2011 5:13:06 PM
+142,T10 Determine necessity to stop indication,12/6/2011 5:13:33 PM
+143,Confirmation of receipt,12/7/2011 3:45:21 PM
+143,T02 Check confirmation of receipt,12/7/2011 3:46:27 PM
+143,T04 Determine confirmation of receipt,12/7/2011 3:46:44 PM
+143,T05 Print and send confirmation of receipt,12/7/2011 3:47:02 PM
+143,T06 Determine necessity of stop advice,12/7/2011 3:47:22 PM
+143,T10 Determine necessity to stop indication,12/7/2011 3:47:44 PM
+144,Confirmation of receipt,12/15/2011 1:17:50 PM
+144,T02 Check confirmation of receipt,12/15/2011 1:18:31 PM
+144,T04 Determine confirmation of receipt,12/15/2011 1:18:57 PM
+144,T05 Print and send confirmation of receipt,12/15/2011 1:20:03 PM
+144,T06 Determine necessity of stop advice,12/15/2011 1:21:06 PM
+144,T10 Determine necessity to stop indication,12/15/2011 1:21:41 PM
+145,Confirmation of receipt,12/23/2011 3:36:26 PM
+145,T06 Determine necessity of stop advice,12/23/2011 3:38:23 PM
+145,T10 Determine necessity to stop indication,12/23/2011 3:39:08 PM
+146,Confirmation of receipt,12/9/2011 5:37:36 PM
+146,T02 Check confirmation of receipt,12/9/2011 5:37:57 PM
+146,T04 Determine confirmation of receipt,12/9/2011 5:38:15 PM
+146,T05 Print and send confirmation of receipt,12/9/2011 5:38:31 PM
+146,T06 Determine necessity of stop advice,12/22/2011 12:10:39 PM
+146,T10 Determine necessity to stop indication,12/22/2011 12:11:38 PM
+147,Confirmation of receipt,12/6/2011 3:40:10 PM
+147,T02 Check confirmation of receipt,12/6/2011 3:40:35 PM
+147,T04 Determine confirmation of receipt,12/6/2011 3:40:51 PM
+147,T05 Print and send confirmation of receipt,12/6/2011 3:41:07 PM
+147,T06 Determine necessity of stop advice,12/6/2011 3:41:40 PM
+148,Confirmation of receipt,1/10/2012 2:14:31 PM
+148,T02 Check confirmation of receipt,1/10/2012 2:15:26 PM
+148,T06 Determine necessity of stop advice,1/10/2012 2:47:41 PM
+148,T10 Determine necessity to stop indication,1/10/2012 3:09:25 PM
+148,T04 Determine confirmation of receipt,1/10/2012 3:11:40 PM
+148,T05 Print and send confirmation of receipt,1/10/2012 3:12:14 PM
+149,Confirmation of receipt,12/7/2011 12:27:27 PM
+149,T02 Check confirmation of receipt,12/7/2011 12:27:59 PM
+149,T04 Determine confirmation of receipt,12/7/2011 12:28:27 PM
+149,T05 Print and send confirmation of receipt,12/7/2011 12:29:01 PM
+149,T06 Determine necessity of stop advice,12/7/2011 12:29:25 PM
+149,T10 Determine necessity to stop indication,12/7/2011 12:30:00 PM
+150,Confirmation of receipt,12/6/2011 2:30:29 PM
+150,T02 Check confirmation of receipt,12/6/2011 2:37:47 PM
+150,T04 Determine confirmation of receipt,12/6/2011 2:38:09 PM
+150,T05 Print and send confirmation of receipt,12/6/2011 2:38:30 PM
+150,T06 Determine necessity of stop advice,12/6/2011 2:38:57 PM
+150,T10 Determine necessity to stop indication,12/6/2011 2:39:25 PM
+151,Confirmation of receipt,12/13/2011 1:09:28 PM
+151,T02 Check confirmation of receipt,12/13/2011 4:18:51 PM
+151,T04 Determine confirmation of receipt,12/13/2011 4:19:42 PM
+151,T05 Print and send confirmation of receipt,12/13/2011 4:20:26 PM
+151,T06 Determine necessity of stop advice,12/13/2011 4:28:47 PM
+151,T10 Determine necessity to stop indication,12/13/2011 4:29:29 PM
+152,Confirmation of receipt,12/17/2011 5:16:49 PM
+152,T02 Check confirmation of receipt,12/17/2011 5:17:26 PM
+152,T04 Determine confirmation of receipt,12/17/2011 5:17:56 PM
+152,T06 Determine necessity of stop advice,12/17/2011 5:18:30 PM
+152,T10 Determine necessity to stop indication,12/17/2011 5:19:13 PM
+152,T05 Print and send confirmation of receipt,12/19/2011 12:34:23 PM
+153,Confirmation of receipt,12/12/2011 3:30:43 PM
+153,T02 Check confirmation of receipt,12/12/2011 3:32:01 PM
+153,T04 Determine confirmation of receipt,12/12/2011 3:32:40 PM
+153,T05 Print and send confirmation of receipt,12/12/2011 3:33:38 PM
+154,Confirmation of receipt,12/9/2011 9:51:11 AM
+154,T02 Check confirmation of receipt,12/9/2011 9:51:52 AM
+154,T04 Determine confirmation of receipt,12/9/2011 9:52:21 AM
+154,T05 Print and send confirmation of receipt,12/9/2011 9:52:41 AM
+154,T06 Determine necessity of stop advice,12/9/2011 9:53:04 AM
+154,T10 Determine necessity to stop indication,12/9/2011 9:53:29 AM
+155,Confirmation of receipt,12/7/2011 4:52:49 PM
+155,T06 Determine necessity of stop advice,12/7/2011 4:56:56 PM
+155,T02 Check confirmation of receipt,12/7/2011 4:58:29 PM
+155,T10 Determine necessity to stop indication,12/7/2011 4:59:40 PM
+155,T04 Determine confirmation of receipt,12/7/2011 5:00:17 PM
+155,T05 Print and send confirmation of receipt,12/7/2011 5:00:46 PM
+156,Confirmation of receipt,1/12/2012 4:13:12 PM
+156,T02 Check confirmation of receipt,1/12/2012 4:13:56 PM
+156,T04 Determine confirmation of receipt,1/12/2012 4:14:33 PM
+156,T05 Print and send confirmation of receipt,1/12/2012 4:16:01 PM
+156,T06 Determine necessity of stop advice,1/12/2012 4:17:05 PM
+156,T10 Determine necessity to stop indication,1/12/2012 4:18:11 PM
+157,Confirmation of receipt,12/21/2011 1:35:49 PM
+157,T02 Check confirmation of receipt,12/21/2011 1:36:33 PM
+157,T04 Determine confirmation of receipt,12/21/2011 2:11:54 PM
+157,T05 Print and send confirmation of receipt,12/21/2011 2:15:09 PM
+157,T06 Determine necessity of stop advice,12/21/2011 2:15:40 PM
+157,T10 Determine necessity to stop indication,12/21/2011 2:22:30 PM
+158,Confirmation of receipt,12/21/2011 3:23:48 PM
+158,T02 Check confirmation of receipt,12/21/2011 3:24:27 PM
+158,T04 Determine confirmation of receipt,12/21/2011 3:24:58 PM
+158,T05 Print and send confirmation of receipt,12/21/2011 3:25:24 PM
+158,T06 Determine necessity of stop advice,12/21/2011 3:25:50 PM
+158,T10 Determine necessity to stop indication,12/21/2011 3:26:26 PM
+159,Confirmation of receipt,1/12/2012 4:56:12 PM
+159,T02 Check confirmation of receipt,1/12/2012 5:07:45 PM
+159,T04 Determine confirmation of receipt,1/12/2012 5:08:24 PM
+159,T05 Print and send confirmation of receipt,1/12/2012 5:09:31 PM
+159,T06 Determine necessity of stop advice,1/12/2012 5:10:05 PM
+159,T10 Determine necessity to stop indication,1/12/2012 5:11:11 PM
+160,Confirmation of receipt,12/28/2011 3:19:04 PM
+160,T02 Check confirmation of receipt,12/28/2011 3:20:33 PM
+160,T04 Determine confirmation of receipt,12/28/2011 3:21:05 PM
+160,T06 Determine necessity of stop advice,12/28/2011 3:39:32 PM
+160,T10 Determine necessity to stop indication,12/28/2011 3:45:48 PM
+160,T05 Print and send confirmation of receipt,12/30/2011 11:01:44 AM
+161,Confirmation of receipt,1/3/2012 1:51:49 PM
+161,T02 Check confirmation of receipt,1/3/2012 1:52:18 PM
+161,T04 Determine confirmation of receipt,1/3/2012 1:53:19 PM
+161,T05 Print and send confirmation of receipt,1/3/2012 1:53:44 PM
+161,T06 Determine necessity of stop advice,1/4/2012 9:57:57 AM
+161,T10 Determine necessity to stop indication,1/4/2012 9:58:41 AM
+162,Confirmation of receipt,1/6/2012 5:54:34 PM
+162,T02 Check confirmation of receipt,1/6/2012 5:55:03 PM
+162,T04 Determine confirmation of receipt,1/6/2012 5:55:29 PM
+162,T05 Print and send confirmation of receipt,1/6/2012 5:55:55 PM
+162,T06 Determine necessity of stop advice,1/9/2012 10:03:39 AM
+162,T10 Determine necessity to stop indication,1/9/2012 10:04:19 AM
+163,Confirmation of receipt,1/6/2012 5:57:48 PM
+163,T02 Check confirmation of receipt,1/6/2012 5:58:14 PM
+163,T04 Determine confirmation of receipt,1/6/2012 5:58:37 PM
+163,T05 Print and send confirmation of receipt,1/6/2012 5:59:02 PM
+163,T06 Determine necessity of stop advice,1/9/2012 10:10:58 AM
+163,T10 Determine necessity to stop indication,1/9/2012 10:11:58 AM
+164,Confirmation of receipt,1/6/2012 6:01:10 PM
+164,T02 Check confirmation of receipt,1/6/2012 6:01:38 PM
+164,T04 Determine confirmation of receipt,1/6/2012 6:02:16 PM
+164,T05 Print and send confirmation of receipt,1/6/2012 6:02:44 PM
+164,T06 Determine necessity of stop advice,1/9/2012 10:13:55 AM
+164,T10 Determine necessity to stop indication,1/9/2012 10:14:25 AM
+165,Confirmation of receipt,1/6/2012 6:06:05 PM
+165,T02 Check confirmation of receipt,1/6/2012 6:06:35 PM
+165,T04 Determine confirmation of receipt,1/6/2012 6:07:13 PM
+165,T05 Print and send confirmation of receipt,1/6/2012 6:07:34 PM
+165,T06 Determine necessity of stop advice,1/9/2012 10:57:11 AM
+165,T10 Determine necessity to stop indication,1/9/2012 10:57:58 AM
+166,Confirmation of receipt,1/4/2012 8:36:09 PM
+166,T06 Determine necessity of stop advice,1/4/2012 8:37:33 PM
+166,T10 Determine necessity to stop indication,1/4/2012 8:53:52 PM
+166,T16 Report reasons to hold request,1/4/2012 8:54:44 PM
+166,T17 Check report Y to stop indication,1/4/2012 8:55:41 PM
+166,T19 Determine report Y to stop indication,1/4/2012 8:56:18 PM
+166,T20 Print report Y to stop indication,1/4/2012 8:56:54 PM
+166,T02 Check confirmation of receipt,1/5/2012 9:19:19 AM
+166,T04 Determine confirmation of receipt,1/5/2012 1:47:06 PM
+166,T05 Print and send confirmation of receipt,1/5/2012 1:47:44 PM
+167,Confirmation of receipt,1/6/2012 6:09:08 PM
+167,T02 Check confirmation of receipt,1/6/2012 6:09:34 PM
+167,T04 Determine confirmation of receipt,1/6/2012 6:10:02 PM
+167,T05 Print and send confirmation of receipt,1/6/2012 6:10:25 PM
+167,T06 Determine necessity of stop advice,1/9/2012 10:59:39 AM
+167,T10 Determine necessity to stop indication,1/9/2012 11:00:18 AM
+168,Confirmation of receipt,1/6/2012 6:15:03 PM
+168,T02 Check confirmation of receipt,1/6/2012 6:15:31 PM
+168,T04 Determine confirmation of receipt,1/6/2012 6:15:58 PM
+168,T05 Print and send confirmation of receipt,1/6/2012 6:16:21 PM
+168,T06 Determine necessity of stop advice,1/9/2012 11:13:58 AM
+168,T10 Determine necessity to stop indication,1/9/2012 11:14:27 AM
+169,Confirmation of receipt,12/15/2011 12:53:12 PM
+170,Confirmation of receipt,1/6/2012 6:12:33 PM
+170,T02 Check confirmation of receipt,1/6/2012 6:13:03 PM
+170,T04 Determine confirmation of receipt,1/6/2012 6:13:26 PM
+170,T05 Print and send confirmation of receipt,1/6/2012 6:13:47 PM
+170,T06 Determine necessity of stop advice,1/9/2012 11:01:58 AM
+170,T10 Determine necessity to stop indication,1/9/2012 11:02:31 AM
+171,Confirmation of receipt,12/16/2011 1:08:04 PM
+171,T02 Check confirmation of receipt,1/12/2012 4:42:20 PM
+171,T04 Determine confirmation of receipt,1/12/2012 4:46:21 PM
+171,T05 Print and send confirmation of receipt,1/12/2012 4:47:07 PM
+171,T06 Determine necessity of stop advice,1/12/2012 4:47:44 PM
+171,T10 Determine necessity to stop indication,1/12/2012 4:48:18 PM
+172,Confirmation of receipt,1/10/2012 4:22:52 PM
+172,T02 Check confirmation of receipt,1/10/2012 4:23:38 PM
+172,T04 Determine confirmation of receipt,1/10/2012 4:24:44 PM
+172,T05 Print and send confirmation of receipt,1/10/2012 4:25:19 PM
+172,T06 Determine necessity of stop advice,1/10/2012 4:54:53 PM
+172,T10 Determine necessity to stop indication,1/10/2012 4:55:30 PM
+173,Confirmation of receipt,12/21/2011 9:41:50 AM
+173,T02 Check confirmation of receipt,12/21/2011 9:42:49 AM
+173,T04 Determine confirmation of receipt,12/21/2011 9:44:56 AM
+173,T05 Print and send confirmation of receipt,12/21/2011 9:51:22 AM
+173,T06 Determine necessity of stop advice,12/21/2011 9:52:15 AM
+173,T10 Determine necessity to stop indication,12/21/2011 9:53:08 AM
+174,Confirmation of receipt,1/23/2012 11:23:25 AM
+175,Confirmation of receipt,12/19/2011 4:34:47 PM
+175,T02 Check confirmation of receipt,12/19/2011 4:37:28 PM
+175,T06 Determine necessity of stop advice,12/19/2011 4:38:21 PM
+175,T10 Determine necessity to stop indication,12/19/2011 4:39:29 PM
+175,T04 Determine confirmation of receipt,1/16/2012 2:17:48 PM
+175,T05 Print and send confirmation of receipt,1/16/2012 2:18:38 PM
+176,Confirmation of receipt,1/3/2012 11:04:36 AM
+176,T02 Check confirmation of receipt,1/3/2012 11:05:52 AM
+176,T04 Determine confirmation of receipt,1/3/2012 11:06:40 AM
+176,T05 Print and send confirmation of receipt,1/3/2012 11:07:09 AM
+176,T06 Determine necessity of stop advice,1/3/2012 11:09:42 AM
+176,T10 Determine necessity to stop indication,1/3/2012 11:10:27 AM
+177,Confirmation of receipt,12/21/2011 11:24:17 AM
+177,T02 Check confirmation of receipt,12/21/2011 11:25:05 AM
+177,T04 Determine confirmation of receipt,12/21/2011 11:25:34 AM
+177,T05 Print and send confirmation of receipt,12/21/2011 11:25:58 AM
+177,T06 Determine necessity of stop advice,12/21/2011 11:26:32 AM
+177,T10 Determine necessity to stop indication,12/21/2011 11:27:41 AM
+178,Confirmation of receipt,12/20/2011 11:22:12 AM
+178,T02 Check confirmation of receipt,12/20/2011 11:29:17 AM
+178,T04 Determine confirmation of receipt,12/20/2011 12:03:39 PM
+178,T05 Print and send confirmation of receipt,12/20/2011 12:04:13 PM
+178,T06 Determine necessity of stop advice,12/20/2011 12:08:02 PM
+178,T10 Determine necessity to stop indication,12/20/2011 12:11:21 PM
+179,Confirmation of receipt,1/5/2012 11:24:58 AM
+179,T06 Determine necessity of stop advice,1/5/2012 11:32:39 AM
+179,T02 Check confirmation of receipt,1/5/2012 11:33:36 AM
+179,T04 Determine confirmation of receipt,1/5/2012 11:34:29 AM
+179,T05 Print and send confirmation of receipt,1/5/2012 11:36:25 AM
+179,T10 Determine necessity to stop indication,1/5/2012 11:36:53 AM
+180,Confirmation of receipt,1/10/2012 2:16:23 PM
+180,T02 Check confirmation of receipt,1/10/2012 2:19:00 PM
+180,T04 Determine confirmation of receipt,1/10/2012 2:21:13 PM
+180,T06 Determine necessity of stop advice,1/10/2012 2:21:56 PM
+180,T05 Print and send confirmation of receipt,1/10/2012 2:23:49 PM
+180,T10 Determine necessity to stop indication,1/10/2012 2:26:48 PM
+181,Confirmation of receipt,12/28/2011 4:36:23 PM
+181,T02 Check confirmation of receipt,12/28/2011 4:36:51 PM
+181,T04 Determine confirmation of receipt,12/28/2011 4:37:17 PM
+181,T05 Print and send confirmation of receipt,12/28/2011 4:38:14 PM
+181,T06 Determine necessity of stop advice,12/28/2011 4:39:34 PM
+181,T10 Determine necessity to stop indication,12/28/2011 4:44:34 PM
+182,Confirmation of receipt,1/3/2012 5:02:18 PM
+182,T02 Check confirmation of receipt,1/5/2012 9:40:10 AM
+182,T04 Determine confirmation of receipt,1/5/2012 9:45:59 AM
+182,T05 Print and send confirmation of receipt,1/5/2012 10:49:38 AM
+182,T06 Determine necessity of stop advice,1/5/2012 10:51:36 AM
+182,T10 Determine necessity to stop indication,1/5/2012 10:52:53 AM
+183,Confirmation of receipt,1/5/2012 3:00:46 PM
+183,T02 Check confirmation of receipt,1/5/2012 3:01:29 PM
+183,T04 Determine confirmation of receipt,1/5/2012 3:05:58 PM
+183,T05 Print and send confirmation of receipt,1/5/2012 3:06:28 PM
+183,T06 Determine necessity of stop advice,1/5/2012 3:07:46 PM
+183,T10 Determine necessity to stop indication,1/5/2012 3:09:51 PM
+184,Confirmation of receipt,1/17/2012 8:29:45 AM
+184,T02 Check confirmation of receipt,1/17/2012 8:30:21 AM
+184,T04 Determine confirmation of receipt,1/17/2012 8:31:04 AM
+184,T05 Print and send confirmation of receipt,1/17/2012 8:31:40 AM
+184,T06 Determine necessity of stop advice,1/17/2012 8:32:09 AM
+184,T10 Determine necessity to stop indication,1/17/2012 8:32:43 AM
+185,Confirmation of receipt,1/17/2012 9:38:18 AM
+185,T02 Check confirmation of receipt,1/17/2012 9:38:52 AM
+185,T06 Determine necessity of stop advice,1/17/2012 9:39:32 AM
+185,T04 Determine confirmation of receipt,1/17/2012 9:40:36 AM
+185,T05 Print and send confirmation of receipt,1/17/2012 9:42:11 AM
+185,T10 Determine necessity to stop indication,1/17/2012 9:44:59 AM
+186,Confirmation of receipt,1/17/2012 10:55:10 AM
+186,T06 Determine necessity of stop advice,1/17/2012 10:57:45 AM
+186,T02 Check confirmation of receipt,1/17/2012 2:55:22 PM
+186,T04 Determine confirmation of receipt,1/17/2012 2:57:00 PM
+186,T05 Print and send confirmation of receipt,1/17/2012 2:57:39 PM
+186,T10 Determine necessity to stop indication,1/17/2012 2:58:38 PM
+187,Confirmation of receipt,1/11/2012 1:55:56 PM
+187,T02 Check confirmation of receipt,1/11/2012 1:56:33 PM
+187,T04 Determine confirmation of receipt,1/11/2012 1:57:02 PM
+187,T05 Print and send confirmation of receipt,1/11/2012 1:57:29 PM
+187,T06 Determine necessity of stop advice,1/17/2012 3:44:06 PM
+187,T10 Determine necessity to stop indication,1/17/2012 3:44:48 PM
+188,Confirmation of receipt,1/11/2012 5:17:53 PM
+188,T02 Check confirmation of receipt,1/11/2012 5:18:28 PM
+188,T04 Determine confirmation of receipt,1/11/2012 5:19:13 PM
+188,T05 Print and send confirmation of receipt,1/11/2012 5:19:43 PM
+188,T06 Determine necessity of stop advice,1/11/2012 5:20:14 PM
+188,T10 Determine necessity to stop indication,1/11/2012 5:20:54 PM
+189,Confirmation of receipt,1/23/2012 12:58:31 PM
+189,T02 Check confirmation of receipt,1/23/2012 12:59:02 PM
+189,T04 Determine confirmation of receipt,1/23/2012 1:00:48 PM
+189,T05 Print and send confirmation of receipt,1/23/2012 1:01:17 PM
+189,T06 Determine necessity of stop advice,1/23/2012 1:02:03 PM
+189,T10 Determine necessity to stop indication,1/23/2012 1:02:37 PM
+190,Confirmation of receipt,1/15/2012 2:22:12 PM
+190,T02 Check confirmation of receipt,1/15/2012 2:23:36 PM
+190,T04 Determine confirmation of receipt,1/15/2012 2:24:50 PM
+190,T05 Print and send confirmation of receipt,1/15/2012 2:25:55 PM
+190,T06 Determine necessity of stop advice,1/15/2012 2:26:35 PM
+190,T10 Determine necessity to stop indication,1/15/2012 2:27:11 PM
+191,Confirmation of receipt,1/13/2012 4:43:24 PM
+191,T02 Check confirmation of receipt,1/13/2012 4:44:18 PM
+191,T04 Determine confirmation of receipt,1/13/2012 4:45:05 PM
+191,T05 Print and send confirmation of receipt,1/13/2012 4:45:37 PM
+191,T06 Determine necessity of stop advice,1/13/2012 4:46:12 PM
+191,T10 Determine necessity to stop indication,1/13/2012 4:46:46 PM
+192,Confirmation of receipt,1/18/2012 4:46:13 PM
+192,T06 Determine necessity of stop advice,1/18/2012 4:46:47 PM
+192,T02 Check confirmation of receipt,1/18/2012 4:47:30 PM
+192,T04 Determine confirmation of receipt,1/18/2012 4:48:12 PM
+192,T10 Determine necessity to stop indication,1/18/2012 4:48:49 PM
+192,T05 Print and send confirmation of receipt,1/18/2012 4:49:34 PM
+193,Confirmation of receipt,1/6/2012 3:20:51 PM
+193,T02 Check confirmation of receipt,1/6/2012 3:23:09 PM
+193,T04 Determine confirmation of receipt,1/6/2012 3:25:09 PM
+193,T05 Print and send confirmation of receipt,1/6/2012 3:25:43 PM
+193,T06 Determine necessity of stop advice,1/6/2012 3:52:05 PM
+193,T10 Determine necessity to stop indication,1/6/2012 3:53:11 PM
+194,Confirmation of receipt,1/16/2012 1:31:11 PM
+194,T02 Check confirmation of receipt,1/16/2012 1:32:13 PM
+194,T04 Determine confirmation of receipt,1/16/2012 1:33:01 PM
+194,T05 Print and send confirmation of receipt,1/16/2012 1:33:43 PM
+194,T06 Determine necessity of stop advice,1/16/2012 1:34:23 PM
+194,T10 Determine necessity to stop indication,1/16/2012 1:35:08 PM
+195,Confirmation of receipt,1/10/2012 3:41:29 PM
+195,T02 Check confirmation of receipt,1/10/2012 3:42:09 PM
+195,T04 Determine confirmation of receipt,1/10/2012 3:42:36 PM
+195,T05 Print and send confirmation of receipt,1/10/2012 3:43:18 PM
+195,T06 Determine necessity of stop advice,1/10/2012 3:48:12 PM
+195,T10 Determine necessity to stop indication,1/10/2012 3:48:58 PM
+196,Confirmation of receipt,1/12/2012 3:25:56 PM
+196,T02 Check confirmation of receipt,1/12/2012 3:30:49 PM
+196,T04 Determine confirmation of receipt,1/12/2012 3:31:29 PM
+196,T06 Determine necessity of stop advice,1/12/2012 3:34:39 PM
+196,T10 Determine necessity to stop indication,1/12/2012 3:35:16 PM
+196,T05 Print and send confirmation of receipt,1/20/2012 2:49:57 PM
+197,Confirmation of receipt,1/12/2012 3:36:54 PM
+197,T02 Check confirmation of receipt,1/12/2012 3:37:39 PM
+197,T04 Determine confirmation of receipt,1/12/2012 3:38:52 PM
+197,T05 Print and send confirmation of receipt,1/12/2012 3:40:39 PM
+197,T06 Determine necessity of stop advice,1/12/2012 3:41:22 PM
+197,T10 Determine necessity to stop indication,1/12/2012 3:42:05 PM
+198,Confirmation of receipt,1/11/2012 1:11:08 PM
+198,T02 Check confirmation of receipt,1/11/2012 1:12:22 PM
+198,T04 Determine confirmation of receipt,1/11/2012 1:13:05 PM
+198,T06 Determine necessity of stop advice,1/11/2012 1:14:22 PM
+198,T10 Determine necessity to stop indication,1/11/2012 1:16:09 PM
+198,T16 Report reasons to hold request,1/13/2012 8:40:31 AM
+198,T17 Check report Y to stop indication,1/13/2012 8:41:08 AM
+198,T19 Determine report Y to stop indication,1/13/2012 8:41:41 AM
+198,T20 Print report Y to stop indication,1/13/2012 8:42:16 AM
+198,T05 Print and send confirmation of receipt,1/13/2012 9:08:42 AM
+199,Confirmation of receipt,1/17/2012 8:49:54 AM
+199,T02 Check confirmation of receipt,1/17/2012 1:00:33 PM
+199,T04 Determine confirmation of receipt,1/17/2012 1:01:16 PM
+199,T05 Print and send confirmation of receipt,1/17/2012 1:02:13 PM
+199,T06 Determine necessity of stop advice,1/17/2012 1:03:44 PM
+199,T10 Determine necessity to stop indication,1/17/2012 1:04:35 PM
