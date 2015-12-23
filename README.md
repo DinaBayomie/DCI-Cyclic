@@ -7,7 +7,7 @@ To run our code first:
   - Get jbpt library from "https://code.google.com/p/jbpt"
   - See "https://code.google.com/p/jbpt/source/browse/trunk/jbpt-test/src/test/java/org/jbpt/test/tree/BCTreeTest.java" to add a process model.
   - Add process model in "main" of Relationship matrix project
-- run _int.main in DCI using python 2.7 , with arguments
+- run _int.main in DCI using python[2.7, pypy for 2.7, 3.4] , with arguments
   - Unlabeled event log in (.txt or .csv) formats
   - Heuristic data in (.csv) format
   - Ranking score threshold
