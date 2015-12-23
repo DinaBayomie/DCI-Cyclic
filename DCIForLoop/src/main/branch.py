@@ -1,4 +1,4 @@
-'''
+﻿'''
 This code is copyrighted to Dina Bayomie and Iman Helal @2015 Research work
 Information System Department, Faculty of computers and Information System
 Cairo University, Egypt
@@ -72,9 +72,9 @@ class Branch:
         return timestampL
     
     def display(self):
-        print 'branch # ',self.__identifier,' ',self.__caseId , ' ' , self.__confidenceLevel
-        print 'branch Nodes :',''.join(str(i.timestamp+":"+i.activity+" ") for i in self.__nodes)
+        print ('branch # ',self.__identifier,' ',self.__caseId )#, ' ' , self.__confidenceLevel
+        print( 'branch Nodes :',''.join(str(i.timestamp+":"+i.activity+" ") for i in self.__nodes))
         
     def display_nodes(self):   
-        print 'branch id :',self.identifier,' cid: ',self.__caseId,'    ',"nodes : ",' '.join(str(i.timestamp+":"+i.activity+" ") for i in self.__nodes)#,' Confidence :', self.__confidenceLevel
+        print ( 'branch id :',self.identifier,' cid: ',self.__caseId,'    ',"nodes : ",' '.join(str(str(i.timestamp)+":"+i.activity+" ") for i in self.__nodes))#,' Confidence :', self.__confidenceLevel
     

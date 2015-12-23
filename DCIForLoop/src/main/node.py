@@ -1,10 +1,10 @@
-'''
+﻿'''
 This code is copyrighted to Dina Bayomie and Iman Helal @2015 Research work
 Information System Department, Faculty of computers and Information System
 Cairo University, Egypt
 '''
 class Node:
-    def __init__(self,percentage,casePercentage,eventIdentifier,identifier = 0 ,activity = 'start', caseId= 0 ,parent=0 ,timestampDatetime = None,branchActivities=[],branchEventIdentifiers=[]):
+    def __init__(self,percentage,casePercentage,eventIdentifier,identifier = 0 ,activity = 'start', caseId= 0 ,parent=0 ,timestampDatetime = None,branchActivities=[],nodeIdentifier=0,branchNodes=[],branchEventIdentifiers=[]):
         self.__timestamp = int(identifier)
         self.__identifier =''.join((str(caseId),' ',str(identifier)))#"{0} {1}".format(caseId,identifier) # CaseId:timestamp
         self.__children = []
@@ -16,8 +16,9 @@ class Node:
         self.__timestampDatetime=timestampDatetime
         self.__eventIdentifier=eventIdentifier # to connect all nodes of the same event 
         self.__branchActivities=branchActivities
+        self.__nodeIdentiier=nodeIdentifier
+        self.__branchNodes=branchNodes
         self.__branchEventIdentifiers=branchEventIdentifiers
-        
     @property
     def identifier(self):
         return self.__identifier
@@ -59,10 +60,18 @@ class Node:
     @property
     def eventIdentifier(self):
         return self.__eventIdentifier
-
+    @property
+    def branchNodes(self):
+        return self.__branchNodes
     @property
     def branchEventIdentifiers(self):
         return self.__branchEventIdentifiers
+    #@property
+    #def branchNodeIdentifiers(self):
+    #    return self.__branchNodeIdentifiers
+    @property
+    def nodeIdentifier(self):
+        return self.__nodeIdentiier
     
     @property
     def branchActivities(self):
@@ -72,4 +81,19 @@ class Node:
         return str(str(self.__caseId)+' '+str(self.__timestamp)+''+self.__activity+'')
         #return str('<caseID='+str(self.__caseId)+'/><Timestamp='+self.__timestamp+'/><Activity='+self.__activity+'/>')
     
-    
+    #def __init__(self,percentage,casePercentage,eventIdentifier,identifier = 0 ,activity = 'start', caseId= 0 ,parent=0 ,timestampDatetime = None,branchActivities=[],branchEventIdentifiers=[],branchNodeIdentifiers=[],nodeIdentifier=0):
+    #    self.__timestamp = int(identifier)
+    #    self.__identifier =''.join((str(caseId),' ',str(identifier)))#"{0} {1}".format(caseId,identifier) # CaseId:timestamp
+    #    self.__children = []
+    #    self.__parent=parent            
+    #    self.__caseId=caseId
+    #    self.__activity=activity
+    #    self.__percentage=percentage # p(x|y= parent)
+    #    self.__casePercentage=casePercentage
+    #    self.__timestampDatetime=timestampDatetime
+    #    self.__eventIdentifier=eventIdentifier # to connect all nodes of the same event 
+    #    self.__branchActivities=branchActivities
+    #    self.__branchEventIdentifiers=branchEventIdentifiers
+    #    self.__branchNodeIdentifiers=branchNodeIdentifiers
+    #    self.__nodeIdentiier=nodeIdentifier
+        

@@ -1,4 +1,4 @@
-'''
+﻿'''
 This code is copyrighted to Dina Bayomie and Iman Helal @2015 Research work
 Information System Department, Faculty of computers and Information System
 Cairo University, Egypt
@@ -18,24 +18,24 @@ class Tree:
     def nodes(self):
         return self.__nodes
 
-    def add_node(self, percentage ,casePercentage,eventIdentifier ,identifier ,activity = 'start', caseId= 0 , parent=0,timestampDatetime=None,branchActivities=[],branchEventIdentifiers=[]):
-        node = Node(percentage,casePercentage,eventIdentifier,identifier ,activity , caseId , parent,timestampDatetime,branchActivities,branchEventIdentifiers )
-        node_identifier=node.identifier
+    def add_node(self, percentage ,casePercentage,eventIdentifier ,identifier ,activity = 'start', caseId= 0 , parent=None,timestampDatetime=None,branchActivities=[],nodeIdentifier='0 0',branchNodes=[],branchEventIdentifiers=[]):
+        node = Node(percentage,casePercentage,eventIdentifier,identifier ,activity , caseId , parent,timestampDatetime,branchActivities,nodeIdentifier,branchNodes,branchEventIdentifiers )
+        node_identifier=node.nodeIdentifier#identifier
         if parent is not None:
             parent.add_child(node)
-        else:
-            self[node_identifier] = node
+        #else:
+        self[node_identifier] = node
         return node
 
     def display(self, node, depth=_ROOT):
         children = node.children
         if depth == _ROOT:
-            print node.identifier,' ','  ',node.activity,'  ', self.trunc(node.percentage, 5)
-            #print node.identifier,' ',node.eventIdentifier,'  ',node.activity,'  ', self.trunc(node.percentage, 5)
+            #print( node.identifier,' ','  ',node.activity,'  ', self.trunc(node.percentage, 5))
+            print node.identifier,' ',node.eventIdentifier,'  ',node.activity,'  ', self.trunc(node.percentage, 5)
 
         else:
-            print '\t'*depth, node.identifier,' ','  ',node.activity,'  ', self.trunc(node.percentage, 5)
-            #print '\t'*depth, node.identifier,' ',node.eventIdentifier,'  ',node.activity,'  ', self.trunc(node.percentage, 5)
+            #print ('\t'*depth, node.identifier,' ','  ',node.activity,'  ', self.trunc(node.percentage, 5))
+            print '\t'*depth, node.identifier,' ',node.eventIdentifier,'  ',node.activity,'  ', self.trunc(node.percentage, 5)
 
         depth += 1
         for child in children:
@@ -107,14 +107,28 @@ class Tree:
         #    branchNode=branchNode.parent
         #return False
     
-    def get_existed_activity_in_branch(self,branchNode,activityName):  
+    def get_node_in_branch(self,branchNode,activityName):  
         rootNode=self.get_root()
+        index=len(branchNode.branchActivities)
         while (branchNode!=rootNode):
-            #if(branchNode.activity.lower()==activityName.lower()):
             if(branchNode.activity==activityName):
-                return branchNode
+                return {index:branchNode}
             branchNode=branchNode.parent
+            index=index-1
         return None
-    
+
+    def get_node(self,nodeIdentifier):
+        return self__getitem__(nodeIdentifier)
+
     def trunc(self,number,digit=4):
         return (math.floor(number*pow(10, digit)+0.5))/pow(10, digit) 
+
+
+    #def add_node(self, percentage ,casePercentage,eventIdentifier ,identifier ,activity = 'start', caseId= 0 , parent=0,timestampDatetime=None,branchActivities=[],branchEventIdentifiers=[],nodeIdentifier='0 0'):
+    #    node = Node(percentage,casePercentage,eventIdentifier,identifier ,activity , caseId , parent,timestampDatetime,branchActivities,branchEventIdentifiers,nodeIdentifier )
+    #    node_identifier=node.nodeIdentifier#identifier
+    #    if parent is not None:
+    #        parent.add_child(node)
+    #    #else:
+    #    self[node_identifier] = node
+    #    return node

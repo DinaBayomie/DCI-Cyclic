@@ -1,4 +1,4 @@
-'''
+﻿'''
 This code is copyrighted to Dina Bayomie @2015 Research work
 Information System Department, Faculty of computers and Information System
 Cairo University, Egypt
@@ -29,9 +29,11 @@ class Loop:
     def ends(self):
         return self.__ends
 
+
+
     def printLoop (self):
-        print ""
-        print "------",self.id,"-----"
-        print "starts :",self.starts
-        print "ends : ",self.ends
-        print "elements : ",self.elements
+        print( "")
+        print ("------",self.id,"-----")
+        print ("starts :",self.starts)
+        print( "ends : ",self.ends)
+        print( "elements : ",self.elements)
